@@ -1,0 +1,1065 @@
+[{
+  "_id": {
+    "$oid": "66ef23f89b8ee3442a460f6f"
+  },
+  "sender": "gmggg@gmail.com",
+  "recipient": "user@gmail.com",
+  "content": "hello world!",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-09-21T19:52:24.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef240a9b8ee3442a460f71"
+  },
+  "sender": "gmggg@gmail.com",
+  "recipient": "user@gmail.com",
+  "content": "gg",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-09-21T19:52:42.828Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef257d9b8ee3442a460f74"
+  },
+  "sender": "gmggg@gmail.com",
+  "recipient": "user@gmail.com",
+  "content": "hello world!",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-09-21T19:58:53.893Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef25989b8ee3442a460f76"
+  },
+  "sender": "gmggg@gmail.com",
+  "recipient": "gmggg@gmail.com",
+  "content": "gg",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-09-21T19:59:20.907Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef3bff6293003c42511ee3"
+  },
+  "sender": "user@example.com",
+  "recipient": "recipient@example.com",
+  "content": "Hello, this is a test message from the Node.js client.",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-09-21T21:34:55.008Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef3c1e6293003c42511ee5"
+  },
+  "sender": "gmggg@gmail.com",
+  "recipient": "user@example.com",
+  "content": "hello world!",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-09-21T21:35:26.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef3cab6293003c42511ee9"
+  },
+  "sender": "user@example.com",
+  "recipient": "gmggg@gmail.com",
+  "content": "Hello, this is a test message from the Node.js client.",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-09-21T21:37:47.830Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef838b6293003c42511eec"
+  },
+  "sender": "user@example.com",
+  "recipient": "gmggg@gmail.com",
+  "content": "Hello, this is a test message from the Node.js client.",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-09-22T02:40:11.403Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef83a86293003c42511ef2"
+  },
+  "sender": "user@example.com",
+  "recipient": "gmggg@gmail.com",
+  "content": "Hello, this is a test message from the Node.js client.",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-09-22T02:40:40.328Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef8a6d6293003c42511ef5"
+  },
+  "sender": "user2@example.com",
+  "recipient": "gmggg@gmail.com",
+  "content": "Hello, this is a test message from the Node.js client.",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-09-22T03:09:33.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef8aad6293003c42511ef7"
+  },
+  "sender": "gmggg@gmail.com",
+  "recipient": "user2@gmail.com",
+  "content": "Hello world!",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-09-22T03:10:37.286Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66ef8ac16293003c42511ef9"
+  },
+  "sender": "gmggg@gmail.com",
+  "recipient": "user2@gmail.com",
+  "content": "gg",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-09-22T03:10:57.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ba80fc9984f2fb3a5252f"
+  },
+  "sender": "user2@example.com",
+  "recipient": "gmggg@gmail.com",
+  "content": "Hello, this is a test message from the Node.js client.",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-13T10:59:27.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ba895c9984f2fb3a52532"
+  },
+  "sender": "user2@example.com",
+  "recipient": "gmggg@gmail.com",
+  "content": "Hello, this is a test message from the Node.js client.",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-13T11:01:41.699Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670bea9ec9984f2fb3a52535"
+  },
+  "sender": "user2@example.com",
+  "recipient": "gmggg@gmail.com",
+  "content": "Hello, this is a test message from the Node.js client.",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-13T15:43:26.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670c27607dc68af4c1abe6a1"
+  },
+  "sender": "user2@example.com",
+  "recipient": "gmggg@gmail.com",
+  "content": "Hello, this is a test message from the Node.js client.",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-13T20:02:40.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670c27a9d26a6c5bad733769"
+  },
+  "sender": "user2@example.com",
+  "recipient": "gmggg@gmail.com",
+  "content": "Hello, this is a test message from the Node.js client.",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-13T20:03:53.747Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670c27b6d26a6c5bad73376c"
+  },
+  "sender": "user2@example.com",
+  "recipient": "gmggg@gmail.com",
+  "content": "Hello, this is a test message from the Node.js client.",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-13T20:04:06.574Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670c27c30becd1530ce424f4"
+  },
+  "sender": "user2@example.com",
+  "recipient": "gmggg@gmail.com",
+  "content": "Hello, this is a test message from the Node.js client.",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-13T20:04:19.758Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670c8eaed8e10648a8e3742c"
+  },
+  "sender": "user2@example.com",
+  "recipient": "gmggg@gmail.com",
+  "content": "Hello, this is a test message from the Node.js client.",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-14T03:23:26.082Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670d3973c0bbc1887b010622"
+  },
+  "userId1": {
+    "$oid": "670d3973c0bbc1887b010620"
+  },
+  "userId2": {
+    "$oid": "670d3973c0bbc1887b010621"
+  },
+  "type": "text",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-14T15:32:03.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670d39bb73b769bb7c64acd2"
+  },
+  "userId1": {
+    "$oid": "670d39bb73b769bb7c64acd0"
+  },
+  "userId2": {
+    "$oid": "670d39bb73b769bb7c64acd1"
+  },
+  "type": "text",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-14T15:33:15.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670d39dbca66d39c68154b26"
+  },
+  "userId1": {
+    "$oid": "670d39dbca66d39c68154b24"
+  },
+  "userId2": {
+    "$oid": "670d39dbca66d39c68154b25"
+  },
+  "type": "text",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-14T15:33:47.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670d3a02ca66d39c68154b2b"
+  },
+  "userId1": {
+    "$oid": "670d3a02ca66d39c68154b29"
+  },
+  "userId2": {
+    "$oid": "670d3a02ca66d39c68154b2a"
+  },
+  "type": "text",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-14T15:34:26.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670d3a31ca66d39c68154b30"
+  },
+  "userId1": {
+    "$oid": "670d3a31ca66d39c68154b2e"
+  },
+  "userId2": {
+    "$oid": "670d3a31ca66d39c68154b2f"
+  },
+  "type": "text",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-14T15:35:13.718Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670d3b0fcada98802b93b401"
+  },
+  "userId1": {
+    "$oid": "000000decada98802b93b3ff"
+  },
+  "userId2": {
+    "$oid": "000000decada98802b93b400"
+  },
+  "type": "text",
+  "message": "hello, world!",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-14T15:38:55.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670d3b74cada98802b93b406"
+  },
+  "userId1": {
+    "$oid": "0000006fcada98802b93b404"
+  },
+  "userId2": {
+    "$oid": "000000decada98802b93b405"
+  },
+  "type": "text",
+  "message": "hello, world! gg new message",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-14T15:40:36.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670d3b9fcada98802b93b40b"
+  },
+  "userId1": {
+    "$oid": "000000decada98802b93b409"
+  },
+  "userId2": {
+    "$oid": "000000decada98802b93b40a"
+  },
+  "type": "text",
+  "message": "hello, world! gg new message",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-14T15:41:19.689Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670d3df3a36172bdebc0119b"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111222"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111222"
+  },
+  "type": "text",
+  "message": "hello, world! gg new message",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-14T15:51:15.284Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670d3e187a5a09d0872f9da3"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111222"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111111"
+  },
+  "type": "text",
+  "message": "hello, world! gg new message",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-10-14T15:51:52.228Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670d3e387a5a09d0872f9da6"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111111"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111222"
+  },
+  "type": "text",
+  "message": "hello, world! gg new message",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-14T15:52:24.737Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670d3e99ac59866d5aba5d0b"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111222"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111111"
+  },
+  "type": "text",
+  "message": "hello, world! gg new message",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-10-14T15:54:01.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670d3eb6ac59866d5aba5d0e"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111111"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111222"
+  },
+  "type": "text",
+  "message": "Message received",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-14T15:54:30.821Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670d3fa127ab136ce172c415"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111111"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111222"
+  },
+  "type": "text",
+  "message": "Message received",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-14T15:58:25.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670d467027ab136ce172c418"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111111"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111222"
+  },
+  "type": "text",
+  "message": "Message received",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-14T16:27:28.198Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670d50a627ab136ce172c41b"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111111"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111222"
+  },
+  "type": "text",
+  "message": "Message received",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-14T17:11:02.798Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670d50b027ab136ce172c41e"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111111"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111222"
+  },
+  "type": "text",
+  "message": "Message received",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-14T17:11:12.076Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670d57282d944e76d6b71797"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111111"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111222"
+  },
+  "type": "text",
+  "message": "Message received",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-14T17:38:48.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670fb5bb1eab8f888c70a260"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111113"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111114"
+  },
+  "type": "text",
+  "message": "Hello, World!",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-10-16T12:46:51.236Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670fb6001eab8f888c70a266"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111113"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111114"
+  },
+  "type": "text",
+  "message": "Second - Hello, World!",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-10-16T12:48:00.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670fb6991326b769ac025105"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111113"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111114"
+  },
+  "type": "text",
+  "message": "Third - Hello, World!",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-10-16T12:50:33.196Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670fb7556dad5d4dab816dbc"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111113"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111114"
+  },
+  "type": "text",
+  "message": "Forth - Hello, World!",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-10-16T12:53:41.498Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670fb8416dad5d4dab816dc5"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111114"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111113"
+  },
+  "type": "text",
+  "message": "Forth - Hello, World!",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-10-16T12:57:37.867Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670feb976b41f33939c98a0f"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111114"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111113"
+  },
+  "type": "text",
+  "message": "Fifth - Hello, World!",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-10-16T16:36:39.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670febfd5e3e31cd284f38a7"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111114"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111113"
+  },
+  "type": "text",
+  "message": "Sixth - Hello, World!",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-10-16T16:38:21.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670fec3c5e3e31cd284f38af"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111113"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111114"
+  },
+  "type": "text",
+  "message": "Sixth - Hello, World!",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-10-16T16:39:24.161Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670ffc7b5e3e31cd284f38b5"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111114"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111113"
+  },
+  "type": "text",
+  "message": "World! World!",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-10-16T17:48:43.767Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671101c629ee1696e43d9319"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111114"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111113"
+  },
+  "type": "text",
+  "message": "World! World!",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-10-17T12:23:34.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671101e429ee1696e43d9320"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111113"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111114"
+  },
+  "type": "text",
+  "message": "World! World! from 3",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-10-17T12:24:04.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6711025c651a127735014bc1"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111113"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111114"
+  },
+  "type": "text",
+  "message": "World! World! from 3",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-10-17T12:26:04.264Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67110270651a127735014bc8"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111114"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111113"
+  },
+  "type": "text",
+  "message": "World! World! from 4",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-10-17T12:26:24.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67110ae4651a127735014bcf"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111113"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111114"
+  },
+  "type": "text",
+  "message": "World! World! from 4",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-10-17T13:02:28.121Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67110b602786ec4e9ca15947"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111114"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111113"
+  },
+  "type": "text",
+  "message": "World! World! from 44",
+  "isRead": true,
+  "timestamp": {
+    "$date": "2024-10-17T13:04:32.242Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6711211a81172804b70c49da"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111113"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111114"
+  },
+  "type": "text",
+  "message": "World! World! from 44",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-17T14:37:14.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6711211c81172804b70c49de"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111113"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111114"
+  },
+  "type": "text",
+  "message": "World! World! from 44",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-17T14:37:16.099Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6711211e81172804b70c49e2"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111113"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111114"
+  },
+  "type": "text",
+  "message": "World! World! from 44",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-17T14:37:18.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6711212081172804b70c49e6"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111113"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111114"
+  },
+  "type": "text",
+  "message": "World! World! from 44",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-17T14:37:20.106Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6711212281172804b70c49ea"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111113"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111114"
+  },
+  "type": "text",
+  "message": "World! World! from 44",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-17T14:37:22.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6711212481172804b70c49ee"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111113"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111114"
+  },
+  "type": "text",
+  "message": "World! World! from 44",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-17T14:37:24.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6711212681172804b70c49f2"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111113"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111114"
+  },
+  "type": "text",
+  "message": "World! World! from 44",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-17T14:37:26.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6711212881172804b70c49f6"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111113"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111114"
+  },
+  "type": "text",
+  "message": "World! World! from 44",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-17T14:37:28.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6711212a81172804b70c49fa"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111113"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111114"
+  },
+  "type": "text",
+  "message": "World! World! from 44",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-17T14:37:30.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6711212c81172804b70c49fe"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111113"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111114"
+  },
+  "type": "text",
+  "message": "World! World! from 44",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-17T14:37:32.140Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6711212e81172804b70c4a02"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111113"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111114"
+  },
+  "type": "text",
+  "message": "World! World! from 44",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-17T14:37:34.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6711213081172804b70c4a06"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111113"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111114"
+  },
+  "type": "text",
+  "message": "World! World! from 44",
+  "isRead": false,
+  "timestamp": {
+    "$date": "2024-10-17T14:37:36.147Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "6734939257a4d04f9069ab7f"
+  },
+  "privacy": "private",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff",
+    "communityImage": ""
+  },
+  "createdAt": {
+    "$date": "2024-11-13T11:54:58.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-26T08:19:00.671Z"
+  },
+  "__v": 0,
+  "visibility": "PRIVATE"
+},
+{
+  "_id": {
+    "$oid": "67a33cbb71fc7073fd729b50"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "owner-only",
+    "removeAdmins": "owner-only",
+    "editCommunityInfo": "members-only",
+    "sendMessages": "members-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "communityImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T10:26:03.888Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T10:26:03.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a6086939dbd4e4750f5569"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "owner-only",
+    "removeAdmins": "owner-only",
+    "editCommunityInfo": "members-only",
+    "sendMessages": "members-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "communityImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-07T13:19:37.537Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T13:19:37.537Z"
+  },
+  "__v": 0
+}]

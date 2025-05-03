@@ -1,0 +1,254 @@
+/* General Container */
+.create-blog-container {
+  width: 100%;
+  /* max-width: 1000px; */
+  /* margin: 30px auto; */
+  padding: 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #ffddc1, #ffabab);
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  transition: all 0.3s ease;
+  height: calc(100vh - 150px);
+  overflow-y: auto;
+}
+
+.create-blog-container:hover {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+/* Form Title */
+.create-blog-container h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+/* Inputs Styling */
+.title-input,
+.description-input,
+.tags-input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  border: 1px solid #d1d1d1;
+  border-radius: 8px;
+  background-color: #fff;
+  color: #333;
+  transition: all 0.3s ease;
+}
+
+.title-input:focus,
+.description-input:focus,
+.tags-input:focus {
+  border-color: #ff6f61;
+  outline: none;
+  box-shadow: 0 0 10px rgba(255, 111, 97, 0.3);
+}
+
+/* Title Input Specific */
+.title-input {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Tags Input Styling */
+.tags-input {
+  font-style: italic;
+  border-color: #ff6f61;
+}
+
+.tags-input:focus {
+  color: #2597f5;
+}
+
+/* Editor Toolbar */
+.editor-toolbar {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.editor-toolbar button {
+  padding: 10px 20px;
+  border: 1px solid #d1d1d1;
+  border-radius: 50px;
+  background-color: #fff;
+  color: #8800ff;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.editor-toolbar button:hover {
+  background-color: #51fe08;
+  color: white;
+  transform: scale(1.05);
+}
+
+.editor-toolbar button:active {
+  background-color: #0056b3;
+}
+
+/* Editor */
+.editor {
+  width: 100%;
+  min-height: 350px;
+  border: 1px solid #d1d1d1;
+  padding: 20px;
+  border-radius: 8px;
+  font-size: 16px;
+  background-color: #f8f9fa;
+  color: #333;
+  transition: all 0.3s ease;
+}
+
+.editor:focus {
+  outline: none;
+  border-color: #ff6f61;
+  box-shadow: 0 0 10px rgba(255, 111, 97, 0.3);
+}
+
+.editor[placeholder]:empty:before {
+  content: attr(placeholder);
+  color: #aaa;
+  font-style: italic;
+}
+
+/* Publish Button */
+.publish-button {
+  width: 100%;
+  padding: 15px;
+  margin-top: 30px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #fff;
+  background: #ff6f61;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.publish-button:hover {
+  background: #e55e4d;
+  transform: scale(1.05);
+}
+
+.publish-button:active {
+  background: #e44b38;
+}
+
+/* Full-Screen Adjustments */
+/* body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  background: #f7f7f7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} */
+
+.create-blog-container {
+  height: auto;
+  box-sizing: border-box;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+  .create-blog-container {
+    width: 95%;
+    padding: 20px;
+  }
+
+  .editor-toolbar button {
+    font-size: 14px;
+    padding: 8px 16px;
+  }
+
+  .publish-button {
+    font-size: 18px;
+  }
+}
+
+/* Image Resizing for Editor */
+.resizable-image {
+  display: block;
+  margin: 10px auto;
+  max-width: 100%; /* Ensure image doesn't overflow */
+  cursor: grab;
+  height: auto;
+  transition: transform 0.3s ease;
+}
+
+.resizable-image:hover {
+  transform: scale(1.05);
+}
+
+/* Blog Form Container */
+.blog-form {
+  margin: 40px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 900px;
+  font-size: 16px;
+}
+
+/* Floating Label for Inputs */
+.create-blog-container input:focus + label,
+.create-blog-container textarea:focus + label {
+  color: #ff6f61;
+  transform: translateY(-18px);
+  font-size: 14px;
+}
+
+.create-blog-container input + label,
+.create-blog-container textarea + label {
+  color: #777;
+  font-size: 16px;
+  transition: all 0.2s ease;
+}
+
+/* Buttons & Links */
+/* button, a {
+  cursor: pointer;
+  outline: none;
+  transition: all 0.3s ease;
+}
+
+a:hover {
+  color: #ff6f61;
+} */
+
+/* Focus Styles */
+/* input:focus, textarea:focus {
+  outline: none;
+  box-shadow: 0 0 10px rgba(255, 111, 97, 0.3);
+} */
+.editor-toolbar .red-text {
+  color: red;
+}
+.editor-toolbar .blue-text {
+  color: blue;
+}
+.editor-toolbar .black-text {
+  color: rgb(0, 0, 0);
+}

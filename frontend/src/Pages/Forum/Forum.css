@@ -1,0 +1,221 @@
+.forum {
+
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    margin-bottom: 50px;
+    height: calc(100vh-100px);
+    overflow: scroll;
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+}
+
+.f-content {
+
+    display: flex;
+    width: 100%;
+    margin-top: 10px;
+
+}
+
+.f-side-wrapper {
+
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    align-items: flex-end;
+
+}
+
+.f-side {
+
+    width: 17%;
+    height: 340px;
+    border-radius: 5px;
+    font-size: small;
+    background-color: #d3d3d38a;
+    justify-content: end;
+    position: fixed;
+    bottom: 38px;
+
+
+}
+
+.f-side-bottom {
+
+    margin-top: auto;
+
+
+}
+
+
+
+.f-side h2 {
+
+    margin: 15px 0px 0px 18px;
+
+
+}
+
+.f-side img {
+
+    margin: 0px 0px 0px 40px;
+
+}
+
+.f-side p {
+
+    margin: 20px 0px 0px 20px;
+
+}
+
+.f-side .x {
+
+    margin-left: 90px;
+
+}
+
+.forum .list {
+
+    /* margin: 40px 0px 0px 11px; */
+    /* border: 2px solid #d3d3d3; */
+    /* border-radius: 10px; */
+    /* border-bottom-left-radius: 0px; */
+    /* border-bottom-right-radius: 0px; */
+    width: 100%;
+    /* border-bottom: none; */
+
+}
+
+.forum .header-f {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 5%;
+    padding: 0px 20px 0px 10px;
+}
+
+.forum .buts a {
+    text-decoration: none;
+    color: var(--white);
+}
+
+.header-f .buts {
+
+    display: flex;
+    flex-direction: row;
+    /* justify-content: flex-end; */
+
+}
+
+.header-f .role {
+
+    border: none;
+    outline: none;
+    background-color: rgba(255, 0, 170, 0.368);
+    padding: 5px 15px;
+    border-radius: 10px;
+
+}
+
+.forum .searching {
+
+    display: flex;
+    flex-direction: row;
+    width: 30%;
+    gap: 10px;
+
+}
+
+.forum .searching .search-but {
+
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    color: white;
+
+    :hover {
+
+        cursor: pointer;
+
+    }
+
+    background-color: rgb(81, 81, 104);
+
+}
+
+.button-x {
+
+    display: inline-flex;
+    width: 130px;
+    background-color: black;
+    border-radius: 10px 10px 10px 10px;
+    padding-left: 10px;
+    padding-top: 2.5px;
+    margin-left: 3px;
+
+}
+
+.button-y {
+
+    display: flex;
+    width: 150px;
+    background-color: rgb(0, 0, 0);
+    border: solid 1px white;
+    border-radius: 10px 10px 10px 10px;
+    padding: 2px 5px 0px 5px;
+
+}
+
+.header-f a :hover {
+
+    opacity: 0.8;
+    cursor: pointer;
+
+}
+
+.button-x .text {
+
+    text-decoration-color: aliceblue;
+    font-size: 12px;
+    width: 150px;
+    height: 13px;
+    font-weight: 400;
+    line-height: 14.52px;
+    color: white;
+    margin: 5px 0px 0px 5px;
+    text-decoration-line: none;
+
+}
+
+.button-y .text {
+
+    text-decoration-color: aliceblue;
+    font-size: 12px;
+    width: 250px;
+    height: 15px;
+    font-weight: 400;
+    line-height: 14.52px;
+    color: white;
+    margin: 5px 0px 0px 10px;
+    text-decoration-line: none;
+
+}
+
+.button-image {
+
+    width: 20px;
+    height: 20px;
+    margin: 1px 0px 0px 0px;
+
+}
+
+.button-imagey {
+
+    width: 16px;
+    height: 16px;
+    margin: 3px 0px 0px 0px;
+
+}

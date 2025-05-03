@@ -1,0 +1,122 @@
+.message-box{
+    display: flex;
+    align-items: flex-start;
+    justify-self: start;
+    column-gap: 20px;
+    min-width: 350px;
+    width: 50%;
+    max-width: 900px;
+}
+
+.message-box .profile-pic{
+    width: 30px;
+}
+
+.message-box:first-of-type{
+    padding-top: 20px;
+}
+
+.message-box.send{
+    flex-direction: row-reverse;
+    justify-self: end;
+}
+
+.message-box.update{
+    width: 100%;
+    justify-content: center;
+    justify-self: center;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.message-box img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.message-box .time{
+    text-align: right;
+    font-size: var(--base-size-10);
+    position: relative;
+    top: 4px;
+}
+
+.message-box .name{
+    font-size: var(--base-size-14);
+    font-weight: 600;
+}
+
+.message-box .text{
+    /* background-color: lightblue; */
+    background-color: var(--white);
+    border-radius: 10px;
+    /* border-top-left-radius: 0; */
+    padding: 10px;
+    position: relative;
+}
+
+.dark .message-box .text{
+    background-color: var(--gray-700);
+}
+
+.message-box.text.show-rect .text::before{
+    content: "";
+    width: 20px;
+    height: 20px;
+    /* background-color: lightblue; */
+    background-color: var(--white);
+    position: absolute;
+    top: 0;
+    /* transform: rotateZ(45deg); */
+}
+
+.message-box.update{
+    width: 80%;
+    text-align: center;
+    background-color: var(--gray-200);
+    margin: 10px 0;
+}
+
+.dark .message-box .text::before{
+    background-color: var(--gray-700);
+}
+
+.message-box.receive .text::before{
+    left: -10px;
+    clip-path:polygon(0 0, 100% 0, 100% 100%);
+}
+
+.message-box.send .text::before{
+    right: -10px;
+    clip-path:polygon(0 0, 100% 0, 0 100%);
+}
+
+/* .message-box .text>div{
+    margin-bottom: 5px;
+} */
+
+
+ /* messages sent */
+.message-box.send .name{
+    display: none;
+}
+
+.message-box .text-bottom{
+    display: grid;
+    grid-template-columns: auto min-content;
+    column-gap: 10px;
+    align-items: end;
+}
+
+.message-box .message{
+    font-size: var(--base-size-12);
+    font-weight: 400;
+    overflow-wrap: break-word;
+}
+
+.message-box .message span{
+    
+}
+
+

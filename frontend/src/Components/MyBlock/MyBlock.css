@@ -1,0 +1,213 @@
+.myblock {
+
+    /* background-color: #71717129; */
+    background-color: white;
+    width: 97%;
+    display: flex;
+    padding: 10px 10px 20px 0px;
+    margin-bottom: 20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.308);
+
+}
+
+.myblock .right {
+
+    margin-left: 30px;
+    width: 97%;
+
+}
+
+.myblock .top-line {
+
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+
+}
+
+.myblock .top-line a {
+
+    margin-top: 15px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.myblock .top-line .t-wrap {
+
+    width: 40%;
+
+}
+
+.myblock .top-line .wrapper {
+
+    width: 60%;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.myblock .top-line .top-buttons {
+
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.myblock .top-line .top-buttons a {
+
+    text-decoration: none;
+    color: white;
+
+}
+
+.myblock .hidden {
+
+    color: red;
+    margin-left: 5px;
+    font-style: italic;
+
+}
+
+.myblock .right a {
+
+    text-decoration: none;
+
+}
+
+.myblock .left .navs:hover {
+
+    cursor: pointer;
+    font-size: 15px;
+
+}
+
+.myblock .right .my-title a {
+
+    color: rgb(0, 0, 255);
+    font-weight: 400;
+    height: 18px;
+    text-decoration: none;
+    text-decoration-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+.myblock .right .my-title a:hover {
+
+    text-decoration: none;
+    opacity: 0.7;
+
+}
+
+.myblock .right .title:hover {
+
+    text-decoration: none;
+
+}
+
+.myblock .right .title:visited {
+
+    color: inherit;
+    text-decoration: none;
+
+}
+
+.myblock .right .underTitle {
+
+    font-size: 15px;
+    margin: 1rem 0rem 0rem 1rem;
+    width: 80%;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    font-style: oblique;
+
+}
+
+.myblock .right .buttons {
+
+    display: flex;
+    font-size: 12px;
+
+}
+
+.myblock .left .answers {
+
+    width: 75px;
+    height: 15px;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    margin-top: 12px;
+
+}
+
+.myblock .top-buttons button {
+
+    margin-left: 5px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: none;
+
+}
+
+.myblock .top-buttons .editm a {
+
+    background-color: rgb(77, 190, 86);
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+
+}
+
+.myblock .top-buttons .editm {
+
+    background-color: rgb(77, 190, 86);
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+
+}
+
+.myblock .top-buttons .deletem {
+
+    background-color: rgb(196, 34, 34);
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+
+}
+
+.myblock .top-buttons .deletem :hover {
+
+    cursor: pointer;
+
+}
+
+.myblock .right .authorTime {
+
+    display: flex;
+    font-size: 10px;
+    margin: 0px 0px 0px 500px;
+    border-radius: 5px;
+    padding: 0px 1px 0px 1px;
+}
+
+.myblock .right .authorTime p {
+
+
+    margin: 8px 0px 0px 20px;
+
+}
+
+.block .left a {
+
+    text-decoration: none;
+
+}
+
+.block .left a:visited {
+
+    text-decoration: none;
+
+}

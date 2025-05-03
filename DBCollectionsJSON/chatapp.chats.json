@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "670d57282d944e76d6b71799"
+  },
+  "receiver": {
+    "$oid": "111111111111111111111222"
+  },
+  "sender": {
+    "$oid": "111111111111111111111111"
+  },
+  "lastMessage": "Message received",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2024-10-14T17:38:48.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670fb5bb1eab8f888c70a262"
+  },
+  "receiver": {
+    "$oid": "111111111111111111111114"
+  },
+  "sender": {
+    "$oid": "111111111111111111111113"
+  },
+  "lastMessage": "World! World! from 44",
+  "unreadMessageCount": 20,
+  "lastMessageTimestamp": {
+    "$date": "2024-10-16T12:46:51.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670fb8416dad5d4dab816dc7"
+  },
+  "receiver": {
+    "$oid": "111111111111111111111113"
+  },
+  "sender": {
+    "$oid": "111111111111111111111114"
+  },
+  "lastMessage": "World! World! from 4",
+  "unreadMessageCount": 6,
+  "lastMessageTimestamp": {
+    "$date": "2024-10-16T12:57:37.870Z"
+  },
+  "__v": 0
+}]

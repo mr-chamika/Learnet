@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev":"node server.js"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.6.3",
+    "readline-sync": "^1.4.10",
+    "ws": "^8.18.0"
+  }
+}

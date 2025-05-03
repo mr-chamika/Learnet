@@ -1,0 +1,44 @@
+.profile{
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.profile>*{
+    width: 30px;
+    height: 30px;
+    /* background-color: rgb(117, 117, 252); */
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.profile img{
+    width: 100%;
+}
+
+.profile .profile-picture{
+    overflow: hidden;
+    border: 1px solid greenyellow;
+}
+
+.profile .profile-picture img{
+    width: 50px;
+}
+
+.profile .notifications{
+    position: relative;
+}
+
+.profile .notifications-count{
+    background-color: rgb(121, 255, 94);
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: -15%;
+    left: 65%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

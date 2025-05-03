@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HLS Stream with JWT</title>
+</head>
+<body>
+
+    <video id="video" controls width="640"></video>
+
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <script>
+        if (Hls.isSupported()) {
+            const video = document.getElementById("video");
+            const token = "YOUR_JWT_TOKEN_HERE"; // Replace with actual JWT
+
+            const hls = new Hls({
+                xhrSetup: function (xhr, url) {
+                    xhr.open("GET", url, true); // Changing the request method to POST
+                    // xhr.setRequestHeader("Authorization", `Bearer ${token}`);
+                    // xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+                }
+            });
+
+            hls.loadSource("http://localhost:8080/user/video"); 
+            hls.attachMedia(video);
+            hls.on(Hls.Events.MANIFEST_PARSED, function () {
+                video.play();
+            });
+
+            hls.on(Hls.Events.ERROR, function (event, data) {
+                console.error("HLS.js Error:", data);
+            });
+        } else {
+            console.error("HLS is not supported.");
+        }
+    </script>
+
+</body>
+</html>

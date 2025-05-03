@@ -1,0 +1,123 @@
+.profile-page legend {
+
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 3px;
+    margin-left: 130px;
+
+}
+
+.profile-page .profile-list li {
+
+    list-style-type: none;
+    text-decoration: none;
+    width: 80%;
+    margin: 20px auto;
+
+}
+
+.profile-page .profile-list li:hover {
+
+    margin-left: 30px;
+    cursor: pointer;
+
+}
+
+.profile-page .profile-content .settings {
+
+    margin-bottom: 40px;
+
+}
+
+.profile-page .profile-list a {
+
+    text-decoration: none;
+    color: black;
+    border-radius: 13px;
+    background-color: rgb(230, 230, 230);
+    padding: 5px 10px 5px 10px;
+
+}
+
+.profile-page .profile-page-head {
+
+    font-family: "Poppins", serif;
+    font-weight: lighter;
+    padding-left: 20px;
+    padding-top: 10px;
+
+}
+
+.profile-page .profile-image {
+
+    width: 20%;
+    margin: 0px auto;
+    margin-bottom: 50px;
+
+}
+
+.profile-page .profile-image img {
+
+    margin-left: 15px;
+
+}
+
+.profile-page fieldset {
+
+    border: 1px solid black;
+    padding: 20px;
+    width: 400px;
+    margin-left: 10px;
+    border-radius: 20px;
+
+}
+
+.profile-page .personal-courses {
+
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    margin-bottom: 60px;
+
+}
+
+.profile-page .settings {
+
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.profile-page .settings h3 {
+
+    margin-bottom: 5px;
+
+}
+
+.profile-page fieldset form {
+
+    margin: 10px 0px 20px 40px;
+
+}
+
+.profile-page .p-update-button {
+
+    width: 200px;
+    height: 30px;
+    margin: 20px 0px 0px 20px;
+    border-radius: 10px;
+    background-color: rgb(89, 197, 89);
+    color: aliceblue;
+    font-family: "Poppins", serif;
+    font-weight: bold;
+    border: none;
+
+}
+
+.profile-page .p-update-button:hover {
+
+    cursor: pointer;
+    box-shadow: 3px 3px 3px 3px rgb(182, 182, 182);
+
+}

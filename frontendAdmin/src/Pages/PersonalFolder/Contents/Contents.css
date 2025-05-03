@@ -1,0 +1,46 @@
+.dir-list{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.dir-list tr{
+    border-bottom: 1px solid rgb(192, 192, 192);
+    padding: 10px 20px;
+}
+
+.dir-list tr:first-of-type{
+    position: sticky;
+    top: -10px;
+    left: 0;
+    background-color: white;
+    transition: all 0.25s ease-in ;
+}
+
+.dir-list tr th,
+.dir-list tr th,
+.dir-list tr td{
+    padding: 10px 20px;
+    overflow: hidden; /* Hide overflowing text */
+    text-overflow: ellipsis; /* Show ellipsis on text overflow */
+    white-space: nowrap; /* Prevent text wrapping */
+    max-width: 25vw; /* Set a maximum width (adjust as needed) */
+}
+
+.dir-list tr td > div {
+    overflow: hidden; /* For nested div inside td */
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 100%; /* Ensure div doesn't exceed the parent td */
+}
+
+.dir-list th{
+    text-align: left;
+    font-weight: bold;
+}
+
+.dir-list-container{
+    height: calc(100vh - 200px);
+    overflow-y: scroll;
+    overflow-x: hidden;
+    padding: 10px;
+}

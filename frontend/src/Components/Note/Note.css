@@ -1,0 +1,55 @@
+.note h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    color: #2c3e50;
+}
+
+.note h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: #34495e;
+}
+
+.note h3 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #7f8c8d;
+}
+
+.note p {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}
+
+.note ul {
+    margin-bottom: 20px;
+    padding-left: 20px;
+}
+
+.note ul li {
+    margin-bottom: 10px;
+    font-size: 1.1em;
+}
+
+.note strong {
+    font-weight: bold;
+}
+
+.note em {
+    font-style: italic;
+}
+
+.note blockquote {
+    font-style: italic;
+    background-color: #ecf0f1;
+    border-left: 5px solid #3498db;
+    padding: 10px 20px;
+    margin: 20px 0;
+}
+
+.note hr {
+    border: 0;
+    height: 1px;
+    background: #ccc;
+    margin: 30px 0;
+}

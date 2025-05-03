@@ -1,0 +1,19 @@
+/* .dir-list .dir{
+    border: none;
+} */
+
+.dir-item .icon{
+    height: 20px;
+}
+
+.dir-item td{
+    max-width: 20px;
+    text-overflow: ellipsis;
+    text-wrap: nowrap;
+}
+
+.dir-item td:first-child{
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}

@@ -1,0 +1,243 @@
+.answer-block {
+
+    background-color: #FFFFFF80;
+    width: 90%;
+    height: 100%;
+    margin-top: 40px;
+}
+
+.answer-block .wrap {
+
+    display: flex;
+    background-color: rgb(58, 192, 249);
+    border-radius: 20px;
+    padding: 20px 20px;
+
+}
+
+
+.answer-block .a-left {
+
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.answer-block .voting {
+
+    margin: 10px 0px 0px 5px;
+}
+
+.answer-block .voting button:hover {
+
+    cursor: pointer;
+
+}
+
+.answer-block .voting button {
+
+    width: 25px;
+    height: 25px;
+    border: none;
+    outline: none;
+    background-color: white;
+}
+
+.answer-block .voting h3 {
+
+    margin: 10px 0px 10px 7px;
+    font-family: 'poppins', serif;
+    font-weight: 300;
+    width: 20px;
+
+}
+
+.answer-block .answer {
+
+    padding: 10px 10px 20px 20px;
+    font-size: 15px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    width: 100%;
+
+}
+
+.answer-block .a-left .answer-block-bottomt {
+
+    font-size: 13px;
+    width: 100%;
+    display: flex;
+}
+
+.answer-block .a-left .answer-block-bottomt .ty {
+
+    font-size: 13px;
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+
+.answer-block .answer-block-bottomt .buttons {
+
+    display: flex;
+    padding-left: 10px;
+    gap: 10px;
+
+}
+
+.answer-block .answer-block-bottomt .buttons :hover {
+
+    cursor: pointer;
+
+}
+
+.answer-block .answer-block-bottomt .buttons button {
+
+    width: 60px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+
+}
+
+.answer-block .tik {
+
+    border-radius: 100%;
+
+}
+
+.answer-block .tik img {
+
+    margin-bottom: 1px;
+    margin-top: 2px;
+
+}
+
+.answer-block .tik img:hover {
+
+    cursor: pointer;
+
+}
+
+.answer-block .answers-comments {
+
+    width: 80%;
+
+}
+
+.answer-block .answers-comments .seemore {
+
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    padding: 2px 5px 15px 10px;
+
+}
+
+.answer-block .answers-comments .seemore :hover {
+
+    cursor: pointer;
+    color: rgb(255, 0, 0);
+    transition: color 0.8s ease;
+
+}
+
+.answer-block .answers-comments .edit-comment {
+
+    width: 50%;
+    display: flex;
+    height: 10%;
+    background-color: rgba(176, 229, 200, 0.603);
+    margin-left: 35%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+}
+
+.answer-block .answers-comments .edit-comment input {
+
+    border: none;
+    outline: none;
+    background-color: unset;
+    margin-right: 8%;
+    padding: 5px;
+    outline-offset: none;
+    outline: none;
+    outline-style: none;
+    outline-color: none;
+
+}
+
+.answer-block .answers-comments .edit-comment button {
+
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    font-weight: bolder;
+    color: white;
+    margin-right: 5px;
+    padding: 5px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.answer-block .answers-comments .edit-comment .save-b {
+
+    background-color: rgb(13, 182, 78);
+}
+
+.answer-block .answers-comments .edit-comment .cancel-b {
+
+    background-color: rgb(255, 0, 0);
+}
+
+.answer-block .answers-comments .edit-comment .save-b:hover {
+
+    cursor: pointer;
+}
+
+.answer-block .answers-comments .edit-comment .cancel-b:hover {
+
+    cursor: pointer;
+
+}
+
+.answer-block .answerComment {
+
+    display: inline;
+    gap: 10px;
+    margin-top: 10px;
+    margin-left: 40px;
+
+}
+
+.answer-block .answerComment input {
+
+    width: 425px;
+    height: 25px;
+    padding: 5px 5px;
+    border: none;
+    outline: none;
+}
+
+.answer-block .answerComment button {
+
+    height: 25px;
+    padding: 1px 5px;
+    margin-top: 1px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    font-weight: bolder;
+}
+
+.answer-block .answerComment button:hover {
+
+    cursor: pointer;
+
+}

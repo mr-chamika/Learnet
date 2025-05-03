@@ -1,0 +1,74 @@
+.message-box{
+    display: flex;
+    align-items: flex-start;
+    justify-self: start;
+    column-gap: 20px;
+    min-width: 350px;
+    width: 50%;
+    max-width: 900px;
+}
+
+.message-box.send{
+    flex-direction: row-reverse;
+    justify-self: end;
+}
+
+.message-box img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.message-box .time{
+    text-align: right;
+    font-size: 14px;
+}
+
+.message-box .name{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.message-box .text{
+    /* background-color: lightblue; */
+    background-color: rgb(211, 244, 255);
+    border-radius: 10px;
+    /* border-top-left-radius: 0; */
+    padding: 15px;
+    position: relative;
+}
+
+.message-box .text::before{
+    content: "";
+    width: 20px;
+    height: 20px;
+    /* background-color: lightblue; */
+    background-color: rgb(211, 244, 255);
+    position: absolute;
+    top: 0;
+    /* transform: rotateZ(45deg); */
+}
+
+.message-box.receive .text::before{
+    left: -10px;
+    clip-path:polygon(0 0, 100% 0, 100% 100%);
+}
+
+.message-box.send .text::before{
+    right: -10px;
+    clip-path:polygon(0 0, 100% 0, 0 100%);
+}
+
+.message-box .text>div{
+    margin-bottom: 5px;
+}
+
+
+ /* messages sent */
+.message-box.send .name{
+    display: none;
+}
+
+
+
+

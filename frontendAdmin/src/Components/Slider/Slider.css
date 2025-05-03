@@ -1,0 +1,36 @@
+.slider{
+    padding: 20px;
+    /* width: fit-content;
+    height: fit-content; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    row-gap: 10px;
+}
+
+.slider .content{
+    width: 100%;
+    height: 100%;
+    margin-bottom: 20px;
+}
+
+.slider .controls{
+    width: max-content;
+    display: flex;
+    column-gap: 10px;
+}
+
+.slider .content .slide{
+    /* width: fit-content;
+    height: fit-content; */
+    /* min-height: 500px;
+    min-width: 500px; */
+    /* background-color: aqua; */
+    display: none;
+    width: 100%;
+    height: 100%;
+}
+
+.slider .content .slide.active{
+    display: block;
+}

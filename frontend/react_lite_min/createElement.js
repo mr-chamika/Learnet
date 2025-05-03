@@ -1,0 +1,1 @@
+function createTextElement(e){return{type:"TEXT_ELEMENT",props:{nodeValue:e,children:[]}}}function createElement(e,t,...n){return{type:e,props:{...t,children:n.map((e=>{"object"==typeof e||createTextElement(e)}))}}}

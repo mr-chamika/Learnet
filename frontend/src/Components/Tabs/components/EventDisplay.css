@@ -1,0 +1,109 @@
+/* Container styling */
+.personal-schedule .event-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+
+.personal-schedule .event-card .event-thumbnail-container{
+  width: 100%;
+  /* height: 250px; */
+  aspect-ratio: 16/9;
+  border-radius: 10px;
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 10px;
+  background-color: var(--blue-50);
+}
+
+.personal-schedule .event-card .event-thumbnail{
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+}
+
+.personal-schedule .event-card img{
+  height: 100%;
+  border-radius: 10px;
+}
+
+
+  .personal-schedule .event-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  }
+  
+  /* Header styling */
+  .personal-schedule .event-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 8px;
+    margin-bottom: 12px;
+  }
+  
+  .personal-schedule .event-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .personal-schedule .event-date {
+    font-size: 14px;
+    color: #888;
+    margin: 0;
+  }
+  
+  /* Body styling */
+  .personal-schedule .event-body {
+    font-size: 16px;
+    margin-bottom: 12px;
+  }
+  
+  .personal-schedule .event-description {
+    margin: 0 0 8px 0;
+    line-height: 1.5;
+  }
+  
+  .personal-schedule .event-location {
+    font-size: 14px;
+    color: #555;
+  }
+  
+  /* Footer styling */
+  .personal-schedule .event-footer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+  }
+  
+  .personal-schedule .event-button {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s;
+  }
+  
+  .personal-schedule .event-button:hover {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .personal-schedule .event-button.secondary {
+    background-color: #f0f0f0;
+    color: #333;
+  }
+  
+  .personal-schedule .event-button.secondary:hover {
+    background-color: #ddd;
+  }
+  

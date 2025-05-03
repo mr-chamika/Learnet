@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "67a1e28b401b05c5b8ec4f5e"
+  },
+  "name": "First community ever",
+  "description": "First community created in Learnet",
+  "createdBy": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "groups": [
+    "678635640329d2c3acd57d02",
+    "67a6086939dbd4e4750f5564",
+    "67a6086939dbd4e4750f555c"
+  ],
+  "communityImage": "",
+  "communitySettingsId": {
+    "$oid": "6734939257a4d04f9069ab7f"
+  },
+  "createdAt": {
+    "$date": "2025-02-04T09:48:59.979Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-26T06:52:57.669Z"
+  },
+  "__v": 0,
+  "announcementsGroupId": {
+    "$oid": "67a6086939dbd4e4750f555c"
+  },
+  "generalGroupId": {
+    "$oid": "67a6086939dbd4e4750f5564"
+  },
+  "members": [
+    {
+      "$oid": "67793513cb8fb3b56c484c71"
+    }
+  ],
+  "admins": [
+    {
+      "$oid": "67793513cb8fb3b56c484c71"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a33cbb71fc7073fd729b52"
+  },
+  "name": "2nd community",
+  "description": "2nd community",
+  "createdBy": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "groups": [
+    {
+      "$oid": "67a33cbb71fc7073fd729b4b"
+    },
+    {
+      "$oid": "67a33cbb71fc7073fd729b43"
+    }
+  ],
+  "admins": [
+    {
+      "$oid": "67793513cb8fb3b56c484c71"
+    }
+  ],
+  "communityImage": "",
+  "communitySettingsId": {
+    "$oid": "67a33cbb71fc7073fd729b50"
+  },
+  "announcementsGroupId": {
+    "$oid": "67a33cbb71fc7073fd729b43"
+  },
+  "generalGroupId": {
+    "$oid": "67a33cbb71fc7073fd729b4b"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T10:26:03.893Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T10:26:03.894Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a6086939dbd4e4750f556b"
+  },
+  "name": "3rd community",
+  "description": "3rd community",
+  "createdBy": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "groups": [],
+  "admins": [
+    {
+      "$oid": "67793513cb8fb3b56c484c71"
+    }
+  ],
+  "communityImage": "",
+  "communitySettingsId": {
+    "$oid": "67a6086939dbd4e4750f5569"
+  },
+  "announcementsGroupId": {
+    "$oid": "67beaee3fd6393895d78027c"
+  },
+  "generalGroupId": {
+    "$oid": "67beaee6fd6393895d78023e"
+  },
+  "createdAt": {
+    "$date": "2025-02-07T13:19:37.541Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T13:19:37.542Z"
+  },
+  "__v": 0
+}]

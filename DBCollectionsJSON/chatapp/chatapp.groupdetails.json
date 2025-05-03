@@ -1,0 +1,179 @@
+[{
+  "_id": {
+    "$oid": "678635640329d2c3acd57d02"
+  },
+  "name": "Group 6",
+  "description": "Group 6 description",
+  "createdBy": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "members": [
+    {
+      "$oid": "67793513cb8fb3b56c484c71"
+    },
+    {
+      "$oid": "6753d5b520a22433db03559e"
+    },
+    {
+      "$oid": "673c247a763762263af973b8"
+    }
+  ],
+  "admins": [
+    {
+      "$oid": "67793513cb8fb3b56c484c71"
+    }
+  ],
+  "groupImage": "",
+  "groupSettingsId": {
+    "$oid": "6734939257a4d04f9069ab7f"
+  },
+  "groupChatId": {
+    "$oid": "678635640329d2c3acd57d00"
+  },
+  "createdAt": {
+    "$date": "2025-01-14T09:59:00.543Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-25T16:11:21.321Z"
+  },
+  "__v": 0,
+  "communityId": {
+    "$oid": "67a1e28b401b05c5b8ec4f5e"
+  }
+},
+{
+  "_id": {
+    "$oid": "67a33cbb71fc7073fd729b43"
+  },
+  "name": "Announcement",
+  "description": "Announcement group of the community",
+  "createdBy": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "members": [
+    {
+      "$oid": "67793513cb8fb3b56c484c71"
+    }
+  ],
+  "admins": [
+    {
+      "$oid": "67793513cb8fb3b56c484c71"
+    }
+  ],
+  "groupImage": "",
+  "groupSettingsId": {
+    "$oid": "67a33cbb71fc7073fd729b3f"
+  },
+  "groupChatId": {
+    "$oid": "67a33cbb71fc7073fd729b41"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T10:26:03.862Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T10:26:03.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a33cbb71fc7073fd729b4b"
+  },
+  "name": "General",
+  "description": "General group of the community",
+  "createdBy": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "members": [
+    {
+      "$oid": "67793513cb8fb3b56c484c71"
+    }
+  ],
+  "admins": [
+    {
+      "$oid": "67793513cb8fb3b56c484c71"
+    }
+  ],
+  "groupImage": "",
+  "groupSettingsId": {
+    "$oid": "67a33cbb71fc7073fd729b46"
+  },
+  "groupChatId": {
+    "$oid": "67a33cbb71fc7073fd729b49"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T10:26:03.876Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T10:26:03.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a6086939dbd4e4750f555c"
+  },
+  "name": "Announcement",
+  "description": "Announcement group of the community",
+  "createdBy": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "members": [
+    {
+      "$oid": "67793513cb8fb3b56c484c71"
+    }
+  ],
+  "admins": [
+    {
+      "$oid": "67793513cb8fb3b56c484c71"
+    }
+  ],
+  "groupImage": "",
+  "groupSettingsId": {
+    "$oid": "67a6086939dbd4e4750f5558"
+  },
+  "groupChatId": {
+    "$oid": "67a6086939dbd4e4750f555a"
+  },
+  "createdAt": {
+    "$date": "2025-02-07T13:19:37.507Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T13:19:37.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a6086939dbd4e4750f5564"
+  },
+  "name": "General",
+  "description": "General group of the community",
+  "createdBy": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "members": [
+    {
+      "$oid": "67793513cb8fb3b56c484c71"
+    }
+  ],
+  "admins": [
+    {
+      "$oid": "67793513cb8fb3b56c484c71"
+    }
+  ],
+  "groupImage": "",
+  "groupSettingsId": {
+    "$oid": "67a6086939dbd4e4750f555f"
+  },
+  "groupChatId": {
+    "$oid": "67a6086939dbd4e4750f5562"
+  },
+  "createdAt": {
+    "$date": "2025-02-07T13:19:37.522Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T13:19:37.523Z"
+  },
+  "__v": 0
+}]

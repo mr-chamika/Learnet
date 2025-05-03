@@ -1,0 +1,217 @@
+.subscription-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .subscription-container h2 {
+    text-align: center;
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 0.5rem;
+  }
+  
+  .subscription-container .subtitle {
+    text-align: center;
+    color: #666;
+    margin-bottom: 2rem;
+  }
+  
+  .subscription-container .billing-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2rem;
+    gap: 1rem;
+  }
+  
+  .subscription-container .switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+  }
+  
+  .subscription-container .switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  .subscription-container .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: .4s;
+    border-radius: 34px;
+  }
+  
+  .subscription-container .slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    transition: .4s;
+    border-radius: 50%;
+  }
+  
+  .subscription-container input:checked + .slider {
+    background-color: #2196F3;
+  }
+  
+  .subscription-container input:checked + .slider:before {
+    transform: translateX(26px);
+  }
+  
+  .subscription-container .billing-toggle span {
+    font-weight: 600;
+    color: #888;
+  }
+  
+  .subscription-container .billing-toggle span.active {
+    color: #2196F3;
+  }
+  
+  .subscription-container .plans-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  .subscription-container .plan-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1.5rem;
+    position: relative;
+    transition: all 0.3s ease;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .subscription-container .plan-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+  }
+  
+  .subscription-container .plan-card.current {
+    border: 2px solid #2196F3;
+  }
+  
+  .subscription-container .plan-card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  .subscription-container .price {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  .subscription-container .price span {
+    font-size: 1rem;
+    font-weight: normal;
+    color: #666;
+  }
+  
+  .subscription-container .features {
+    list-style: none;
+    padding: 0;
+    margin-bottom: 1.5rem;
+  }
+  
+  .subscription-container .features li {
+    padding: 0.5rem 0;
+    position: relative;
+    padding-left: 1.5rem;
+  }
+  
+  .subscription-container .features li:before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    color: #4CAF50;
+  }
+  
+  .subscription-container .action-button {
+    width: 100%;
+    padding: 0.75rem;
+    border: none;
+    border-radius: 4px;
+    background-color: #2196F3;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .subscription-container .action-button:hover {
+    background-color: #0b7dda;
+  }
+  
+  .subscription-container .action-button.current {
+    background-color: #4CAF50;
+    cursor: default;
+  }
+  
+  .subscription-container .action-button:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+  }
+  
+  .subscription-container .current-badge {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 0.25rem 0.5rem;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    font-weight: bold;
+  }
+  
+  .subscription-container .loader {
+    border: 2px solid #f3f3f3;
+    border-top: 2px solid #3498db;
+    border-radius: 50%;
+    width: 16px;
+    height: 16px;
+    animation: spin 1s linear infinite;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+  
+  .subscription-container .subscription-footer {
+    text-align: center;
+    color: #666;
+    font-size: 0.9rem;
+  }
+  
+  .subscription-container .subscription-footer a {
+    color: #2196F3;
+    text-decoration: none;
+  }
+  
+  .subscription-container .subscription-footer a:hover {
+    text-decoration: underline;
+  }

@@ -1,0 +1,1102 @@
+[{
+  "_id": {
+    "$oid": "67448c0c14451e3822f986cd"
+  },
+  "groupId": {
+    "$oid": "6734939257a4d04f9069ab82"
+  },
+  "userId": {
+    "$oid": "6734939257a4d04f9069ab21"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2024-11-25T14:39:08.579Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T14:39:08.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67448cc1a740433ab42f5968"
+  },
+  "groupId": {
+    "$oid": "6734939257a4d04f9069ab82"
+  },
+  "userId": {
+    "$oid": "111111111111111111111166"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2024-11-25T14:42:09.719Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-25T14:42:09.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67860e4db98e58b705a62617"
+  },
+  "groupId": {
+    "$oid": "67860e4db98e58b705a62613"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2025-01-14T07:12:13.441Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T07:12:13.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67862ef2af89e0783683c66f"
+  },
+  "groupId": {
+    "$oid": "67862ef2af89e0783683c66b"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2025-01-14T09:31:30.498Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T09:31:30.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67862f81d0b3df5d50b20548"
+  },
+  "groupId": {
+    "$oid": "67862f81d0b3df5d50b20544"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2025-01-14T09:33:53.506Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T09:33:53.510Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678635640329d2c3acd57d06"
+  },
+  "groupId": {
+    "$oid": "678635640329d2c3acd57d02"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2025-01-14T09:59:00.580Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T09:59:00.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678646d6a8567586a943c058"
+  },
+  "groupId": {
+    "$oid": "678635640329d2c3acd57d02"
+  },
+  "userId": {
+    "$oid": "6753d5b520a22433db03559e"
+  },
+  "unreadMessageCount": 68,
+  "createdAt": {
+    "$date": "2025-01-14T09:59:00.580Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T09:59:00.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6786677fa8567586a943c062"
+  },
+  "groupId": {
+    "$oid": "678635640329d2c3acd57d02"
+  },
+  "userId": {
+    "$oid": "673c247a763762263af973b8"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-01-14T09:59:00.580Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-14T09:59:00.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3089bbfc10bca14aa0dcd"
+  },
+  "groupId": {
+    "$oid": "67a3089bbfc10bca14aa0dcb"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2025-02-05T06:43:39.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T06:43:39.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3089bbfc10bca14aa0dd5"
+  },
+  "groupId": {
+    "$oid": "67a3089bbfc10bca14aa0dd3"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2025-02-05T06:43:39.673Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T06:43:39.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a30f021fb18e33f574f255"
+  },
+  "groupId": {
+    "$oid": "67a30f021fb18e33f574f253"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2025-02-05T07:10:58.379Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T07:10:58.381Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a30f021fb18e33f574f25d"
+  },
+  "groupId": {
+    "$oid": "67a30f021fb18e33f574f25b"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2025-02-05T07:10:58.394Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T07:10:58.397Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a30f4c00aa8fe3d727fa2b"
+  },
+  "groupId": {
+    "$oid": "67a30f4c00aa8fe3d727fa29"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T07:12:12.192Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T07:12:12.193Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a30f4c00aa8fe3d727fa33"
+  },
+  "groupId": {
+    "$oid": "67a30f4c00aa8fe3d727fa31"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2025-02-05T07:12:12.203Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T07:12:12.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a313025907d65262aaf6ee"
+  },
+  "groupId": {
+    "$oid": "67a313025907d65262aaf6ec"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2025-02-05T07:28:02.561Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T07:28:02.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a313025907d65262aaf6f6"
+  },
+  "groupId": {
+    "$oid": "67a313025907d65262aaf6f4"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2025-02-05T07:28:02.571Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T07:28:02.574Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a31edcd267f40cc4697053"
+  },
+  "groupId": {
+    "$oid": "67a31edcd267f40cc4697051"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T08:18:36.686Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:18:36.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a31edcd267f40cc469705b"
+  },
+  "groupId": {
+    "$oid": "67a31edcd267f40cc4697059"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T08:18:36.698Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:18:36.701Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3204efcda5fe814188d36"
+  },
+  "groupId": {
+    "$oid": "67a3204efcda5fe814188d34"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T08:24:46.802Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:24:46.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3204efcda5fe814188d3e"
+  },
+  "groupId": {
+    "$oid": "67a3204efcda5fe814188d3c"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T08:24:46.815Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:24:46.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3210a702ff0cbdaf2b195"
+  },
+  "groupId": {
+    "$oid": "67a3210a702ff0cbdaf2b193"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T08:27:54.105Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:27:54.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3210a702ff0cbdaf2b19d"
+  },
+  "groupId": {
+    "$oid": "67a3210a702ff0cbdaf2b19b"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T08:27:54.141Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:27:54.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32198702ff0cbdaf2b1f9"
+  },
+  "groupId": {
+    "$oid": "67a32198702ff0cbdaf2b1f7"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T08:30:16.366Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:30:16.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32198702ff0cbdaf2b201"
+  },
+  "groupId": {
+    "$oid": "67a32198702ff0cbdaf2b1ff"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T08:30:16.374Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:30:16.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32206791648b941df43e7"
+  },
+  "groupId": {
+    "$oid": "67a32206791648b941df43e5"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T08:32:06.658Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:32:06.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32206791648b941df43ef"
+  },
+  "groupId": {
+    "$oid": "67a32206791648b941df43ed"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T08:32:06.670Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:32:06.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3223d791648b941df4459"
+  },
+  "groupId": {
+    "$oid": "67a3223d791648b941df4457"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T08:33:01.073Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:33:01.075Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3223d791648b941df4461"
+  },
+  "groupId": {
+    "$oid": "67a3223d791648b941df445f"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T08:33:01.088Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:33:01.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32258f194c1388c72664c"
+  },
+  "groupId": {
+    "$oid": "67a32258f194c1388c72664a"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T08:33:28.907Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:33:28.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32258f194c1388c726654"
+  },
+  "groupId": {
+    "$oid": "67a32258f194c1388c726652"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T08:33:28.919Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:33:28.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3242bd7743d5ca1bd15b7"
+  },
+  "groupId": {
+    "$oid": "67a3242bd7743d5ca1bd15b5"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T08:41:15.329Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:41:15.331Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3242bd7743d5ca1bd15bf"
+  },
+  "groupId": {
+    "$oid": "67a3242bd7743d5ca1bd15bd"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T08:41:15.343Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:41:15.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3279fd7743d5ca1bd15ff"
+  },
+  "groupId": {
+    "$oid": "67a3279fd7743d5ca1bd15fd"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T08:55:59.899Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:55:59.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3279fd7743d5ca1bd1607"
+  },
+  "groupId": {
+    "$oid": "67a3279fd7743d5ca1bd1605"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T08:55:59.918Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:55:59.921Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3298bd7743d5ca1bd1655"
+  },
+  "groupId": {
+    "$oid": "67a3298bd7743d5ca1bd1653"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T09:04:11.177Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:04:11.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3298bd7743d5ca1bd165d"
+  },
+  "groupId": {
+    "$oid": "67a3298bd7743d5ca1bd165b"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T09:04:11.201Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:04:11.203Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a329e5d7743d5ca1bd16b9"
+  },
+  "groupId": {
+    "$oid": "67a329e5d7743d5ca1bd16b7"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T09:05:41.041Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:05:41.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a329e5d7743d5ca1bd16c1"
+  },
+  "groupId": {
+    "$oid": "67a329e5d7743d5ca1bd16bf"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T09:05:41.053Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:05:41.055Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32b1ed7743d5ca1bd16f3"
+  },
+  "groupId": {
+    "$oid": "67a32b1ed7743d5ca1bd16f1"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T09:10:54.852Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:10:54.853Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32b1ed7743d5ca1bd16fb"
+  },
+  "groupId": {
+    "$oid": "67a32b1ed7743d5ca1bd16f9"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T09:10:54.867Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:10:54.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32d55d7743d5ca1bd173b"
+  },
+  "groupId": {
+    "$oid": "67a32d55d7743d5ca1bd1739"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T09:20:21.493Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:20:21.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32d55d7743d5ca1bd1743"
+  },
+  "groupId": {
+    "$oid": "67a32d55d7743d5ca1bd1741"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T09:20:21.506Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:20:21.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32e369e4737198bc238a6"
+  },
+  "groupId": {
+    "$oid": "67a32e369e4737198bc238a4"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T09:24:06.305Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:24:06.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32e369e4737198bc238ae"
+  },
+  "groupId": {
+    "$oid": "67a32e369e4737198bc238ac"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T09:24:06.319Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:24:06.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32f12b880d6b7d50aac0a"
+  },
+  "groupId": {
+    "$oid": "67a32f12b880d6b7d50aac08"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T09:27:46.930Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:27:46.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32f12b880d6b7d50aac12"
+  },
+  "groupId": {
+    "$oid": "67a32f12b880d6b7d50aac10"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T09:27:46.944Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:27:46.946Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32ff0f3151eb7e0434f27"
+  },
+  "groupId": {
+    "$oid": "67a32ff0f3151eb7e0434f25"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T09:31:28.155Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:31:28.157Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32ff0f3151eb7e0434f2f"
+  },
+  "groupId": {
+    "$oid": "67a32ff0f3151eb7e0434f2d"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2025-02-05T09:31:28.169Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:31:28.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3304c8e18ebd0e0fe36fe"
+  },
+  "groupId": {
+    "$oid": "67a3304c8e18ebd0e0fe36fc"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 1,
+  "createdAt": {
+    "$date": "2025-02-05T09:33:00.865Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:33:00.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3304c8e18ebd0e0fe3706"
+  },
+  "groupId": {
+    "$oid": "67a3304c8e18ebd0e0fe3704"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2025-02-05T09:33:00.880Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:33:00.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a334968e18ebd0e0fe37e8"
+  },
+  "groupId": {
+    "$oid": "67a334968e18ebd0e0fe37e6"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2025-02-05T09:51:18.737Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:51:18.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a334968e18ebd0e0fe37f0"
+  },
+  "groupId": {
+    "$oid": "67a334968e18ebd0e0fe37ee"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2025-02-05T09:51:18.765Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:51:18.767Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3363fe24c9a4faba7e5f0"
+  },
+  "groupId": {
+    "$oid": "67a3363fe24c9a4faba7e5ee"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2025-02-05T09:58:23.787Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:58:23.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3363fe24c9a4faba7e5f8"
+  },
+  "groupId": {
+    "$oid": "67a3363fe24c9a4faba7e5f6"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2025-02-05T09:58:23.802Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:58:23.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a33cbb71fc7073fd729b45"
+  },
+  "groupId": {
+    "$oid": "67a33cbb71fc7073fd729b43"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2025-02-05T10:26:03.866Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T10:26:03.867Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a33cbb71fc7073fd729b4d"
+  },
+  "groupId": {
+    "$oid": "67a33cbb71fc7073fd729b4b"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2025-02-05T10:26:03.878Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T10:26:03.881Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a6086939dbd4e4750f555e"
+  },
+  "groupId": {
+    "$oid": "67a6086939dbd4e4750f555c"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2025-02-07T13:19:37.511Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T13:19:37.515Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a6086939dbd4e4750f5566"
+  },
+  "groupId": {
+    "$oid": "67a6086939dbd4e4750f5564"
+  },
+  "userId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "unreadMessageCount": 0,
+  "createdAt": {
+    "$date": "2025-02-07T13:19:37.525Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T13:19:37.527Z"
+  },
+  "__v": 0
+}]

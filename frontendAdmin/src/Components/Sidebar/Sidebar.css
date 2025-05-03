@@ -1,0 +1,125 @@
+.sidebar{
+    height: 100%;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    grid-area: sidebar;
+    background-color: var(--gray-50);
+    /* margin-right: 10px; */
+    padding: 15px;
+    border-radius: 0px;
+}
+
+.dark .sidebar{
+    background-color: var(--gray-950);
+}
+
+.sidebar ul{
+    list-style-type: none;
+    grid-area: sidebar;
+    background-color: transparent;
+    /* padding-right: 10px; */
+
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+}
+
+
+.sidebar li>*{
+    font-size: var(--base-size-12);
+    background-color: var(--gray-50);
+    color: black;
+    padding: 5px 10px;
+    border-radius: 5px;
+    /* margin-bottom: 5px; */
+    transition: all 0.5s;
+    text-decoration: none;
+    
+    /* width: 220px; */
+    width: fit-content;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    /* column-gap: 10px; */
+    border: none;
+    transition: all 0.5s;
+}
+
+.dark .sidebar li>*{
+    background-color: var(--gray-600);
+}
+
+.dark .sidebar li img{
+    filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(105%) contrast(105%);
+      
+}
+
+.sidebar li>*.active{
+    background-color: var(--blue-500);
+}
+
+.dark .sidebar li>*.active{
+    background-color: var(--gray-800);
+}
+
+.sidebar.collapsed li>*{
+    /* width: 75px; */
+    /* justify-content: center; */
+}
+
+.sidebar li>* img{
+    width: 30px;
+}
+.sidebar li:nth-child(1)>* img{
+    width: 27px;
+}
+.sidebar li:nth-child(3)>* img{
+    width: 22px;
+}
+.sidebar li:nth-child(4)>* img{
+    width: 24px;
+}
+.sidebar li:nth-child(5)>* img{
+    width: 24px;
+}
+.sidebar li:nth-child(6)>* img{
+    width: 24px;
+}
+
+/* .sidebar button span,
+.sidebar a span{ 
+    width: 200px;
+    text-align: left;
+    opacity: 1;
+    transition: all 0.05s ease-in-out;
+} */
+    
+.sidebar.collapsed button span,
+.sidebar.collapsed a span{ 
+    /* opacity: 0;
+    width: 0; */
+    /* display: none; */
+}
+    
+.sidebar .icon{
+    width: 35px !important;
+    display: flex;
+    justify-content: center;
+}
+
+.sidebar .col{
+    width: 125px;
+    overflow: hidden;
+    transition: all 0.25s ease-in-out;
+}
+.sidebar .col span{
+    text-align: left;
+    display: block;
+    width: 200px !important;
+}
+
+.sidebar.collapsed .col{
+    width: 0px;
+}

@@ -1,0 +1,103 @@
+.personal-folder .contents{
+    display: grid;
+    grid-template-columns: 1fr auto;
+}
+
+.personal-folder .contents .topbar form{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    column-gap: 10px;
+}
+
+.personal-folder .contents .topbar form input[name="search"]{
+    min-width: 500px;
+}
+
+.personal-folder .contents .topbar form input[type="submit"]{
+    min-width: 0;
+    width: fit-content;
+}
+
+.personal-folder .contents .path{
+    width: 96.5%;
+    padding: 5px 15px;
+    border-radius: 5px;
+    background-color: var(--gray-50);
+}
+
+.dir-list{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.dir-list tr{
+    border-bottom: 1px solid rgb(192, 192, 192);
+    padding: 10px 20px;
+}
+
+.dir-list tr:first-of-type{
+    position: sticky;
+    top: -10px;
+    left: 0;
+    background-color: white;
+    transition: all 0.25s ease-in ;
+}
+
+.dir-list tr th,
+.dir-list tr th,
+.dir-list tr td{
+    padding: 10px 20px;
+    overflow: hidden; /* Hide overflowing text */
+    text-overflow: ellipsis; /* Show ellipsis on text overflow */
+    white-space: nowrap; /* Prevent text wrapping */
+    max-width: 25vw; /* Set a maximum width (adjust as needed) */
+}
+
+.dir-list tr td > div {
+    overflow: hidden; /* For nested div inside td */
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 100%; /* Ensure div doesn't exceed the parent td */
+}
+
+.dir-list th{
+    text-align: left;
+    font-weight: bold;
+}
+
+.dir-list-container{
+    /* height: calc(100vh - 200px); */
+    overflow-y: scroll;
+    overflow-x: hidden;
+    padding: 10px;
+}
+
+/*  DETAILS PANNEL  */
+/* .personal-folder .details-pannel{
+    margin-left: 10px;
+    width: 450px;
+    height: calc(100vh - 100px);
+    transition: width 0.25s ease-in-out;
+} */
+
+/* .personal-folder .details-pannel-bottom{
+    height: calc(100vh - 190px);
+    overflow: hidden;
+    overflow-y: auto;
+    display: grid;
+    justify-items: left;
+    grid-auto-rows: max-content;
+    grid-template-columns: 1fr;
+    grid-template-areas: none;
+    row-gap: 5px;
+    background-color: var(--blue-50);
+    border-radius: 10px;
+    padding: 15px;
+} */
+
+/* ====================== */
+
+.personal-folder .topbar .right input{
+    margin-bottom: 0;
+}

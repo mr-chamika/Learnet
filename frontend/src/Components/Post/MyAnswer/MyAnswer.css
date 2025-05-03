@@ -1,0 +1,132 @@
+.myanswer-block {
+
+    background-color: #FFFFFF80;
+    width: 90%;
+    height: 100%;
+    margin-top: 40px;
+}
+
+.myanswer-block .wrap {
+
+    display: flex;
+    background-color: rgb(132, 98, 139);
+    border-radius: 20px;
+    padding: 20px 20px;
+
+}
+
+
+.myanswer-block .m-left {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow: hidden;
+    width: 100%;
+
+}
+
+.myanswer-block .voting {
+
+    margin: 10px 0px 0px 5px;
+}
+
+.myanswer-block .voting button {
+
+    width: 25px;
+    height: 25px;
+    border: none;
+    outline: none;
+    background-color: white;
+}
+
+.myanswer-block .voting h3 {
+
+    margin: 10px 0px 10px 6px;
+    font-family: 'poppins', serif;
+    font-weight: 300;
+    width: 20px;
+
+}
+
+.myanswer-block .answer {
+
+    padding: 0px 10px 0px 20px;
+    font-size: 15px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    width: 100%;
+
+}
+
+.myanswer-block .m-left .answer-block-bottom {
+
+    font-size: 13px;
+    width: 100%;
+    display: flex;
+}
+
+.myanswer-block .m-left .answer-block-bottom .ty {
+
+    font-size: 13px;
+    width: 80%;
+    display: flex;
+    justify-content: end;
+}
+
+.myanswer-block .answer-block-bottom .buttons {
+
+    display: flex;
+    padding-left: 10px;
+    gap: 10px;
+
+}
+
+.myanswer-block .answer-block-bottom .buttons button {
+
+    width: 60px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+
+}
+
+.myanswer-block .tik {
+
+    border-radius: 100%;
+
+}
+
+.myanswer-block .tik img {
+
+    margin-bottom: 1px;
+    margin-top: 2px;
+
+}
+
+.myanswer-block .tik img:hover {
+
+    cursor: pointer;
+
+}
+
+.myanswer-block .answers-comments {
+
+    width: 80%;
+
+}
+
+.myanswer-block .answerComment input {
+
+    width: 425px;
+    height: 25px;
+    padding: 5px 5px;
+}
+
+.myanswer-block .answerComment button {
+
+    height: 25px;
+    padding-top: 0.5px;
+    margin-top: 1px;
+}

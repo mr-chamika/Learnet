@@ -1,0 +1,235 @@
+/* body{
+    background-color: rgb(43, 43, 43);
+} */
+
+.landing-page .hero.cont{
+    overflow: hidden;
+}
+
+.landing-page .hero .box{
+    /* display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 15px; */
+    position: relative;
+}
+
+.landing-page .hero .left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+    width: 100%;
+    height: calc(100vh - 100px);
+}
+
+.landing-page .hero .left .icon-button{
+    margin-top: 30px;
+}
+
+.landing-page .hero .right{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: -100;
+    height: calc(100vh - 50px);
+    width: 100vw;
+    min-width: 1300px;
+    overflow: hidden;
+    /* clip-path: ellipse(); */
+}
+
+.landing-page .hero h2{
+    text-align: center;
+    font-size: 5em;
+}
+
+.landing-page .hero h2>span:last-child{
+    font-size: 60px;
+    color: gray;
+}
+
+/* Default style for the header text */
+.landing-page .hero h2 {
+    font-size: 5rem; /* Default font size for larger screens */
+    transition: font-size 0.3s ease; /* Smooth transition */
+}
+
+.landing-page .hero h2>span:last-child{
+    font-size: 4rem; /* Default font size for larger screens */
+    transition: font-size 0.3s ease; /* Smooth transition */
+}
+  
+  /* When the viewport width is between 768px and 1024px (tablets) */
+@media (max-width: 1024px) {
+    .landing-page .hero h2 {
+        font-size: 4rem; /* Adjust font size for medium screens */
+    }
+
+    .landing-page .hero h2>span:last-child{
+        font-size: 3rem;
+    }
+}
+  
+  /* When the viewport width is between 576px and 768px (smaller tablets and mobile landscape) */
+@media (max-width: 768px) {
+    .landing-page .hero h2 {
+        font-size: 3.5rem; /* Adjust font size for smaller screens */
+    }
+
+    .landing-page .hero h2>span:last-child{
+        font-size: 2.5rem;
+    }
+}
+  
+  /* When the viewport width is 576px or below (mobile devices) */
+@media (max-width: 576px) {
+    .landing-page .hero h2 {
+        font-size: 3rem; /* Adjust font size for mobile screens */
+    }
+
+    .landing-page .hero h2>span:last-child{
+        font-size: 2rem;
+    }
+}
+  
+
+.landing-page .hero img{
+    width: 100%;
+    opacity: 0.25;
+}
+
+.landing-page .cont{
+    margin-bottom: 50px;
+}
+
+
+@media screen and (min-width: 800px) {
+    /* .landing-page .features .box .description-box{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        align-items: center;
+    } */
+}
+
+.landing-page .features .box .description-box{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+
+    position: relative;
+    height: 600px; /* Set the height of the parallax container */
+    overflow: hidden;
+
+    margin-bottom: 30px;
+}
+
+.landing-page .features .box .description-box .img-container{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    border: 2px solid rgb(92, 195, 255);
+}
+
+.landing-page .features .box .description-box .title>span{
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.landing-page .features .box .description-box img{
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    height: auto;
+    will-change: transform; /* Improve performance */
+    object-fit: cover; /* Ensures the image covers the entire container */
+    min-height: 100%;
+}
+
+@keyframes parallax-scroll {
+    0% {
+      transform: translateX(-50%) translateY(-10%);
+    }
+    100% {
+      transform: translateX(-50%) translateY(10%);
+    }
+  }
+
+.landing-page .features .box .description-box .text{
+    width: 100%;
+    padding: 20px;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+}
+.landing-page .features .box .description-box .right{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+
+.landing-page .footer .box{
+    height: fit-content;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+}
+
+@media screen and (min-width: 1200px) {
+    .landing-page .features .box .features-container{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+        column-gap: 20px;
+    }
+
+    .landing-page .features .box .description-box{
+        height: fit-content;
+    }
+    
+    .landing-page .features .box .description-box .img-container{
+        height: 10vw;
+    }
+
+    .landing-page .features .box .description-box .img-container img{
+        height: 110%;
+    }
+}
+
+
+/* HOW - IT - WORKS SECTION */  
+.how-it-works .step .title>span{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.how-it-works .step .content{
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+}
+
+.how-it-works .container .step{
+    margin-bottom: 30px;
+}
+
+.how-it-works .step .content .sub-step{
+    margin-left: 5%;
+}
+
+.how-it-works .container .call>span{
+    font-weight: 500;
+    color: rgb(0, 153, 255);
+}
+
+/* ABOUT US SECTION */
+.about ul li{
+    margin-left: 5%;
+}

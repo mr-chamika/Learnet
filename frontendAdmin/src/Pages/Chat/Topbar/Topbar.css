@@ -1,0 +1,12 @@
+.chat-topbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+}
+
+.chat-topbar .left,
+.chat-topbar .right{
+    display: flex;
+    column-gap: 5px;
+}

@@ -1,0 +1,123 @@
+.new {
+    display: grid;
+    padding: 30px;
+    margin: 0px 0px 30px 20px;
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+    background-color: rgba(255, 228, 196, 0.268);
+}
+
+.new .back {
+
+    position: absolute;
+    margin: 200px 0px 0px 730px;
+
+}
+
+.new .heading {
+
+    font-family: sans-serif;
+    width: 600px;
+    margin-left: 200px;
+
+}
+
+.new h1 {
+
+    padding: 5px;
+
+}
+
+.search-bar {
+
+    margin: 30px 0px 0px 200px;
+    font-size: 20px;
+
+}
+
+.search-bar label {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.search-bar button {
+
+    margin-left: 15px;
+    font-size: 15px;
+    padding: 3px 8px 3px 8px;
+    border-radius: 20px;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    background-color: lawngreen;
+    font-weight: bolder;
+
+}
+
+.search-bar input {
+
+    margin-left: 10px;
+    padding: 5px 5px 5px 10px;
+    width: 300px;
+    font-size: 15px;
+    font-family: monospace;
+    border-radius: 6px;
+
+}
+
+
+.invitation {
+
+    margin: 50px 0px 0px 300px;
+    font-size: 20px;
+
+}
+
+.invitation label {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.invitation input {
+
+    margin-left: 10px;
+    padding: 5px 5px 5px 10px;
+    width: 300px;
+    font-size: 15px;
+    font-family: monospace;
+    border-radius: 6px;
+
+}
+
+.i-button {
+
+    width: 150px;
+    display: flex;
+    margin: 20px 0px 0px 180px;
+    padding: 5px 5px 5px 18px;
+    background-color: rgb(171, 173, 173);
+    border-radius: 10px;
+
+}
+
+.i-button:hover {
+
+    box-shadow: 3px 3px 3px 3px rgb(222, 215, 215);
+
+}
+
+.i-button .i-link {
+
+    text-decoration: none;
+    margin: 5px 0px 0px 3px;
+    font-size: 18px;
+
+}
+
+.new a {
+
+    font-style: italic;
+
+}

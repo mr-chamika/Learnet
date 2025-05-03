@@ -1,0 +1,1248 @@
+[{
+  "_id": {
+    "$oid": "6734939257a4d04f9069ab7f"
+  },
+  "privacy": "private",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "members-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2024-11-13T11:54:58.205Z"
+  },
+  "updatedAt": {
+    "$date": "2025-04-06T06:06:46.245Z"
+  },
+  "__v": 0,
+  "visibility": "PUBLIC"
+},
+{
+  "_id": {
+    "$oid": "67a31edcd267f40cc469704d"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T08:18:36.634Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:18:36.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a31edcd267f40cc4697054"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T08:18:36.686Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:18:36.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3204efcda5fe814188d30"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T08:24:46.771Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:24:46.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3204efcda5fe814188d37"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T08:24:46.803Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:24:46.804Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3210a702ff0cbdaf2b18f"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T08:27:54.020Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:27:54.027Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3210a702ff0cbdaf2b196"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T08:27:54.106Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:27:54.110Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32198702ff0cbdaf2b1f3"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T08:30:16.352Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:30:16.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32198702ff0cbdaf2b1fa"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T08:30:16.366Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:30:16.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32206791648b941df43e1"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T08:32:06.618Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:32:06.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32206791648b941df43e8"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T08:32:06.659Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:32:06.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3223d791648b941df4453"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T08:33:01.058Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:33:01.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3223d791648b941df445a"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T08:33:01.073Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:33:01.075Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32258f194c1388c726646"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T08:33:28.838Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:33:28.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32258f194c1388c72664d"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T08:33:28.907Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:33:28.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3242bd7743d5ca1bd15b1"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T08:41:15.255Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:41:15.286Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3242bd7743d5ca1bd15b8"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T08:41:15.330Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:41:15.332Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3279fd7743d5ca1bd15f9"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T08:55:59.881Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:55:59.883Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3279fd7743d5ca1bd1600"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T08:55:59.900Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T08:55:59.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3298bd7743d5ca1bd164f"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T09:04:11.167Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:04:11.168Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3298bd7743d5ca1bd1656"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T09:04:11.177Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:04:11.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a329e5d7743d5ca1bd16b3"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T09:05:41.031Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:05:41.031Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a329e5d7743d5ca1bd16ba"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T09:05:41.041Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:05:41.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32b1ed7743d5ca1bd16ed"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T09:10:54.835Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:10:54.839Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32b1ed7743d5ca1bd16f4"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T09:10:54.853Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:10:54.853Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32d55d7743d5ca1bd1735"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T09:20:21.474Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:20:21.477Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32d55d7743d5ca1bd173c"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T09:20:21.494Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:20:21.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32e369e4737198bc238a0"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T09:24:06.268Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:24:06.278Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32e369e4737198bc238a7"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T09:24:06.305Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:24:06.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32f12b880d6b7d50aac04"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T09:27:46.897Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:27:46.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32f12b880d6b7d50aac0b"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T09:27:46.931Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:27:46.932Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32ff0f3151eb7e0434f21"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T09:31:28.119Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:31:28.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32ff0f3151eb7e0434f28"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T09:31:28.155Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:31:28.157Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3304c8e18ebd0e0fe36f8"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T09:33:00.807Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:33:00.824Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3304c8e18ebd0e0fe36ff"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T09:33:00.866Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:33:00.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a334968e18ebd0e0fe37e2"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T09:51:18.711Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:51:18.714Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a334968e18ebd0e0fe37e9"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T09:51:18.738Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:51:18.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3363fe24c9a4faba7e5ea"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T09:58:23.751Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:58:23.761Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3363fe24c9a4faba7e5f1"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T09:58:23.788Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T09:58:23.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a33cbb71fc7073fd729b3f"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T10:26:03.846Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T10:26:03.848Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a33cbb71fc7073fd729b46"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-05T10:26:03.866Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-05T10:26:03.867Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a6086939dbd4e4750f5558"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-07T13:19:37.488Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T13:19:37.491Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a6086939dbd4e4750f555f"
+  },
+  "visibility": "PRIVATE",
+  "permissions": {
+    "addMembers": "admins-only",
+    "removeMembers": "admins-only",
+    "addAdmins": "admins-only",
+    "removeAdmins": "admins-only",
+    "editGroupInfo": "admins-only",
+    "sendMessages": "admins-only"
+  },
+  "notifications": {
+    "enableNotifications": true,
+    "muteDuration": 0
+  },
+  "customizations": {
+    "groupImage": "",
+    "themeColor": "#ffffff"
+  },
+  "createdAt": {
+    "$date": "2025-02-07T13:19:37.512Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-07T13:19:37.515Z"
+  },
+  "__v": 0
+}]

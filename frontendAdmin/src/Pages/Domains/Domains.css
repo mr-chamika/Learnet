@@ -1,0 +1,11 @@
+.add-domain{
+    padding: 15px;
+    background-color: var(--white);
+    margin: 15px;
+    border-radius: 10px;
+    height: fit-content;
+}
+
+.add-domain form{
+    max-width: 700px;
+}

@@ -1,0 +1,265 @@
+.mypost {
+
+    height: 100%;
+    width: 100%;
+    overflow: scroll;
+    height: calc(100vh-100px);
+    display: flex;
+    padding-left: 60px;
+    padding-top: 40px;
+
+}
+
+.mypost .right {
+
+    width: 20%;
+    display: flex;
+    justify-content: end;
+    height: 27px;
+
+}
+
+.mypost .left {
+
+    width: 100%;
+
+}
+
+.mypost .right a {
+
+
+    background-color: azure;
+    text-decoration: none;
+    border-radius: 6px;
+    padding: 2px 5px 6px 5px;
+    margin-right: 10px;
+
+}
+
+.mypost .right a:hover {
+
+    background-color: rgb(84, 84, 206);
+    color: aliceblue;
+    font-weight: bolder;
+
+}
+
+.mypost .mypost-head {
+
+    width: 100%;
+
+}
+
+
+.mypost .left .answerst .no {
+
+    margin-top: 20px;
+    font-weight: 300;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: rgb(200, 200, 200);
+    text-align: center;
+    font-size: 15px;
+    width: 500px;
+
+}
+
+.mypost hr {
+
+    margin: 10px 0px 10px 0px;
+
+}
+
+.mypost .user-answer {
+
+    margin-top: 150px;
+
+}
+
+.mypost .mypost-head .topic {
+
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: lighter;
+
+}
+
+.mypost .head p {
+
+    margin-top: 10px;
+
+}
+
+.mypost .discription .question {
+
+    width: 90%;
+    border: 1px rgba(221, 214, 214, 0.461) solid;
+    padding: 10px;
+    margin-left: 40px;
+    margin-top: 20px;
+
+}
+
+.mypost .discription {
+
+    margin-top: 40px;
+    margin-left: 10%;
+
+}
+
+.mypost .left .discription .comments {
+
+    margin-top: 20px;
+    margin-left: 40px;
+    width: 95%;
+
+}
+
+.mypost .left .answers-comments {
+
+    margin-top: 40px;
+    margin-left: 40px;
+
+}
+
+.mypost .voting h3 {
+
+    margin: 10px 30px 10px 0px;
+    font-family: 'poppins', serif;
+    font-weight: 300;
+    width: 20px;
+
+}
+
+.mypost textarea {
+
+    width: 500px;
+    height: 400px;
+    padding: 20px;
+
+}
+
+.mypost .user-answer button {
+
+    border-radius: 6px;
+    padding: 4px 4px 4px 4px;
+    background-color: rgb(101, 101, 231);
+    color: aliceblue;
+    font-weight: bolder;
+    width: 120px;
+    border: none;
+    margin-bottom: 100px;
+
+}
+
+.mypost .answerst h3 {
+
+    font-size: 20px;
+
+}
+
+.mypost .user-answer button:hover {
+
+    background-color: blue;
+    cursor: pointer;
+
+}
+
+.mypost .comment-head {
+
+    margin-top: 50px;
+
+}
+
+.mypost .questionComment {
+
+    margin-left: 15%;
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 30px;
+
+}
+
+.mypost .questionComment input {
+
+    width: 425px;
+    height: 25px;
+    padding: 5px 5px;
+    border: none;
+    outline: none;
+}
+
+.mypost .questionComment button {
+
+    height: 25px;
+    padding: 0.5px 5px;
+    margin-top: 1px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-weight: bolder;
+    background-color: rgba(0, 0, 0, 0.421);
+}
+
+.mypost .questionComment button:hover {
+
+    cursor: pointer;
+
+}
+
+.mypost .answerst .multi-ans {
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+
+
+}
+
+.mypost .commentst {
+
+    width: 72%;
+    margin-left: 40px;
+
+}
+
+.mypost .t-answerComment {
+
+    margin-left: 40px;
+    width: 100%;
+    height: 100%;
+    margin-top: 10px;
+
+}
+
+.mypost .t-answerComment input {
+
+    width: 425px;
+    height: 25px;
+    padding: 5px 5px;
+    border: none;
+    outline: none;
+}
+
+.mypost .t-answerComment button {
+
+    height: 25px;
+    padding: 1px 5px;
+    margin-top: 1px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+
+.mypost .answerst {
+
+    margin-left: 10%;
+
+}
+
+.mypost .t-answerComment button :hover {
+
+    cursor: pointer;
+
+}

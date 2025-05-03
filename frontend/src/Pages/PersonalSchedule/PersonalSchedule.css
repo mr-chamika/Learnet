@@ -1,0 +1,54 @@
+/* *{
+    margin: 1px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    font-weight: 400;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+/* ul{
+    list-style: none;
+} */
+
+/* a{
+    text-decoration: none;
+} */
+
+.personal-schedule{
+    height: calc(100vh - 84px);
+}
+
+.personal-schedule .tabs-container{
+    height: calc(100vh - 140px);
+}
+
+.personal-schedule .content{
+    height: 100%;
+}
+
+.personal-schedule .content .component{
+    height: 100%;
+}
+
+.personal-schedule .content .component .component-inner-container{
+    height: calc(100vh - 240px);
+    overflow-y: auto;
+}
+
+.personal-schedule .events-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+
+.personal-schedule .tasks-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}

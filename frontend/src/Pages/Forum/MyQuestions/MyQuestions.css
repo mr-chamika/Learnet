@@ -1,0 +1,106 @@
+.my-forum-wrap {
+
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    /* border-radius: 20px; */
+    margin-bottom: 30px;
+    height: calc(100vh-100px);
+    overflow: scroll;
+    padding-left: 45px;
+
+}
+
+.my-forum .f-content {
+
+    width: 100%;
+
+}
+
+.my-forum .header-f {
+
+    display: flex;
+
+}
+
+.my-forum .list {
+
+    width: 100%;
+    min-width: 900px;
+    padding-left: 10px;
+
+}
+
+.myforum-f-side {
+
+    display: block;
+    margin-left: 360px;
+    width: 20%;
+    height: 420px;
+    border-radius: 5px;
+    font-size: medium;
+    background-color: #ffffff8a;
+    position: fixed;
+    top: 30%;
+    left: 50%;
+
+}
+
+.myforum-f-side h2 {
+
+    margin: 15px 0px 0px 18px;
+    font-family: "Poppins", serif;
+    width: 500px;
+
+}
+
+.myforum-f-side img {
+
+    margin: 10px 0px 0px 50px;
+
+}
+
+.myforum-f-side p {
+
+    margin: 30px 0px 0px 30px;
+
+}
+
+.myforum-f-side .x {
+
+    margin-left: 125px;
+    margin-top: 0px;
+
+}
+
+.my-forum .top {
+
+    justify-content: flex-end;
+    width: 80%;
+    display: flex;
+
+}
+
+.my-forum .button-x {
+
+    display: flex;
+    background-color: black;
+    border: solid 1px white;
+    border-radius: 10px 10px 10px 10px;
+    margin: 0px 0.5rem 0px 10px;
+    padding: 2px 0px 3px 9.3px;
+    height: 30px;
+
+}
+
+.my-forum .button-y {
+
+    display: flex;
+    background-color: black;
+    border: solid 1px white;
+    border-radius: 10px 10px 10px 10px;
+    margin: 0px 0.5rem 0px 620px;
+    padding: 0px 0px 3px 14px;
+    width: 80px;
+
+}

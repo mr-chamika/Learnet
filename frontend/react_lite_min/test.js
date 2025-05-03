@@ -1,0 +1,1 @@
+const fs=require("fs"),transpile=require("./transpile");function test(){let e="./src/index.jsx";const t=fs.readFileSync(e,"utf8"),s=transpile(t);e="./temp/index.transpiled.jsx",fs.writeFileSync(e,s,"utf8")}test();

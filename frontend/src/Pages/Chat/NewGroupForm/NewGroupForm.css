@@ -1,0 +1,111 @@
+.new-group .col{
+    display:flex;
+    column-gap:10px;
+    align-items:center;
+}
+
+.new-group input{
+    width: 100%;
+}
+
+.new-group .itemfield{
+    position:relative;
+    width:120px;
+    height:120px;
+    border-radius:50%;
+}
+
+.new-group .itemfield img{
+    width:100px;
+    height:100px;
+    border-radius:50%;
+}
+
+.new-group .itemfield input[type="file"]{
+    position:absolute;
+    width:120px;
+    height:120px;
+    top:0;
+    left:0;
+    opacity:0;
+    border-radius:50%;
+}
+
+.new-group textarea{
+    width:100%;
+    height:200px;
+    resize:none;
+    padding:10px;   
+}
+
+.new-group .slide>div{
+    height: 100%;
+}
+
+.new-group .select-members{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    row-gap: 5px;
+}
+
+.new-group .select-members .search{
+    /* display: none; */
+    /* display: flex;
+    column-gap: 10px; */
+    position: relative;
+}
+
+.new-group .select-members .search input{
+    /* display: none; */
+    padding-left: 50px;
+}
+
+.new-group .select-members .search .search-icon img{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.new-group .topbar{
+    display: flex;
+    row-gap: 10px;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.selected-users{
+    display: flex;
+    column-gap: 10px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.selected-user{
+    width: max-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.selected-user .profile-image img{
+    width: 100%;
+    height: 100%;
+}
+
+.selected-user .profile-image{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.new-group .member-selection{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 20px;
+}

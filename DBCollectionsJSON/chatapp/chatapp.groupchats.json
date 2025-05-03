@@ -1,0 +1,1005 @@
+[{
+  "_id": {
+    "$oid": "678635640329d2c3acd57d00"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Hello world!",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-04-09T05:50:58.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a2f2b78c1e6208acd44361"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T05:10:15.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a2f34339cb7f7c44a8afe7"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T05:12:35.395Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a2f3a2961897794e7fdbe2"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T05:14:10.857Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a2f3a2961897794e7fdbe8"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T05:14:10.877Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a2ff3cb345139af2299e35"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T06:03:40.763Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a2ff3cb345139af2299e3b"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T06:03:40.806Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a2ff6b876736648045e44e"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T06:04:27.851Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a2ff6b876736648045e454"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T06:04:27.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a300c666c1ee7ed0193fd9"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T06:10:14.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a300c666c1ee7ed0193fdf"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T06:10:14.649Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3011e3ca2f487bf9bb4ea"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T06:11:42.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3011e3ca2f487bf9bb4f0"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T06:11:42.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a30292d60191211d08bf86"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T06:17:54.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a30292d60191211d08bf8c"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T06:17:54.437Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a302ed523d05fb9f659860"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T06:19:25.880Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a302ed523d05fb9f659866"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T06:19:25.902Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3089bbfc10bca14aa0dc9"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T06:43:39.607Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3089bbfc10bca14aa0dd1"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T06:43:39.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a30f021fb18e33f574f251"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T07:10:58.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a30f021fb18e33f574f259"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T07:10:58.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a30f4c00aa8fe3d727fa27"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T07:12:12.182Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a30f4c00aa8fe3d727fa2f"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T07:12:12.197Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a313025907d65262aaf6ea"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T07:28:02.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a313025907d65262aaf6f2"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T07:28:02.565Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a31edcd267f40cc469704f"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T08:18:36.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a31edcd267f40cc4697057"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T08:18:36.692Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3204efcda5fe814188d32"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T08:24:46.790Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3204efcda5fe814188d3a"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T08:24:46.808Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3210a702ff0cbdaf2b191"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T08:27:54.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3210a702ff0cbdaf2b199"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T08:27:54.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32198702ff0cbdaf2b1f5"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T08:30:16.359Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32198702ff0cbdaf2b1fd"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T08:30:16.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32206791648b941df43e3"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T08:32:06.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32206791648b941df43eb"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T08:32:06.664Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3223d791648b941df4455"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T08:33:01.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3223d791648b941df445d"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T08:33:01.083Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32258f194c1388c726648"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T08:33:28.892Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32258f194c1388c726650"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T08:33:28.912Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3242bd7743d5ca1bd15b3"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T08:41:15.318Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3242bd7743d5ca1bd15bb"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T08:41:15.336Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3279fd7743d5ca1bd15fb"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T08:55:59.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3279fd7743d5ca1bd1603"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T08:55:59.911Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3298bd7743d5ca1bd1651"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T09:04:11.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3298bd7743d5ca1bd1659"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T09:04:11.182Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a329e5d7743d5ca1bd16b5"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T09:05:41.035Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a329e5d7743d5ca1bd16bd"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T09:05:41.046Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32b1ed7743d5ca1bd16ef"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T09:10:54.846Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32b1ed7743d5ca1bd16f7"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T09:10:54.857Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32d55d7743d5ca1bd1737"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T09:20:21.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32d55d7743d5ca1bd173f"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T09:20:21.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32e369e4737198bc238a2"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T09:24:06.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32e369e4737198bc238aa"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T09:24:06.310Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32f12b880d6b7d50aac06"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T09:27:46.916Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32f12b880d6b7d50aac0e"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T09:27:46.936Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32ff0f3151eb7e0434f23"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T09:31:28.142Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a32ff0f3151eb7e0434f2b"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T09:31:28.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3304c8e18ebd0e0fe36fa"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T09:33:00.842Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3304c8e18ebd0e0fe3702"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T09:33:00.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a334968e18ebd0e0fe37e4"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T09:51:18.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a334968e18ebd0e0fe37ec"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T09:51:18.756Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3363fe24c9a4faba7e5ec"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T09:58:23.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a3363fe24c9a4faba7e5f4"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T09:58:23.793Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a33cbb71fc7073fd729b41"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T10:26:03.857Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a33cbb71fc7073fd729b49"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-05T10:26:03.870Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a6086939dbd4e4750f555a"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "sdfjlkdsjf",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-07T15:37:19.816Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67a6086939dbd4e4750f5562"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Created the group",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2025-02-07T13:19:37.519Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,61 @@
+/* Button to trigger notifications */
+.trigger-btn {
+    position: fixed;
+    bottom: 50vh;
+    right: 20px;
+    padding: 10px 15px;
+    background: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  /* Notification Container */
+  .notification-container {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 10px;
+    /* max-height: 180px; */
+    overflow: hidden;
+  }
+  
+  /* Individual Notification */
+  .notification {
+    background: var(--gray-100);
+    padding: 10px;
+    width: 250px;
+    border-radius: 5px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    position: relative;
+    opacity: 1;
+    transform: translateX(0);
+    animation: fadeIn 0.3s ease-out;
+  }
+  
+  /* Close button */
+  .close-btn {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    border: none;
+    background: none;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  /* Fade-in animation */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateX(30px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+  

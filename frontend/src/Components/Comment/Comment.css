@@ -1,0 +1,65 @@
+.c-comment {
+
+    margin: 10px 0px 10px 0px;
+    background-color: rgba(232, 231, 231, 0.584);
+    border-radius: 20px;
+    padding: 5px 20px;
+    width: 100%;
+
+}
+
+.c-comment .comment-top {
+
+    padding: 5px 0px 10px 5px;
+    font-family: 'Poppins', serif;
+    width: 650px;
+
+}
+
+.c-comment .comment-top p {
+
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    width: 100%;
+    padding-top: 10px;
+
+}
+
+.c-comment .comment-bottom {
+
+    display: flex;
+    font-size: 13px;
+
+}
+
+.c-comment .comment-bottom .p {
+
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.c-comment .comment-bottom .buttons {
+
+    width: 30%;
+
+}
+
+.c-comment .comment-bottom .buttons button {
+
+    border: none;
+    outline: none;
+    background-color: unset;
+    margin-right: 5px;
+    color: rgb(194, 194, 194);
+
+}
+
+.c-comment .comment-bottom .buttons button:hover {
+
+    color: rgb(108, 108, 108);
+    cursor: pointer;
+
+}

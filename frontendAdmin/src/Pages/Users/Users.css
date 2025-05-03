@@ -1,0 +1,89 @@
+.users{
+    padding: 15px;
+}
+
+.users form{
+    width: 95%;
+    margin: auto;
+}
+
+.users-topbar{
+    padding: 15px;
+    background-color: var(--white);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.users-topbar input{
+    margin-bottom: 0;
+}
+
+.users-topbar .input-fields{
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
+
+.users form caption{
+    text-align: left;
+}
+
+.users-details{
+    overflow-y: scroll;
+    height: calc(100vh - 250px);
+    /* display: flex;
+    justify-content: center; */
+}
+
+.users-details .header{
+    background-color: var(--gray-50);
+}
+
+.users-details > div{
+    display: grid;
+    grid-template-columns: 1fr 1.5fr repeat(4, 1fr);
+    align-items: center;
+    justify-items: center;
+    background-color: var(--white);
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.users-details > div > div{
+    padding: 15px;
+}
+
+.users-details table{
+    border-collapse: collapse;
+    width: 95%;
+    height: 95%;
+    border: 1px solid black;
+}
+
+.users-details table th{
+    font-weight: 700;
+}
+
+.users-details table th,
+.users-details table td{
+    text-align: left;
+    padding: 10px 20px;
+    border: 1px solid black;
+}
+
+.users-details table tr{
+    background-color: rgb(234, 244, 255);
+}
+
+.users .input-fields input:first-child{
+    width: 300px;
+}
+
+.load-more-container{
+    background-color: transparent;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

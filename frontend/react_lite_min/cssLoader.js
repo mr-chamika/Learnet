@@ -1,0 +1,1 @@
+const fs=require("fs"),path=require("path");module.exports=function(t){return this._compilation.__cssAccumulator||(this._compilation.__cssAccumulator=""),this._compilation.__cssAccumulator+=t,""};

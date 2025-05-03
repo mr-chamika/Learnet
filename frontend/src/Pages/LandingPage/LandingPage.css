@@ -1,0 +1,375 @@
+/* body{
+    background-color: rgb(43, 43, 43);
+} */
+
+.landing-page .hero.cont{
+    overflow: hidden;
+}
+
+.landing-page .hero .box{
+    /* display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 15px; */
+    position: relative;
+}
+
+.landing-page .hero .left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+    width: 100%;
+    height: calc(100vh - 100px);
+}
+
+.landing-page .hero .left .icon-button{
+    margin-top: 30px;
+}
+
+.landing-page .hero .right{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: -100;
+    height: calc(100vh - 50px);
+    width: 100vw;
+    min-width: 1300px;
+    overflow: hidden;
+    /* clip-path: ellipse(); */
+}
+
+.landing-page .hero h2{
+    text-align: center;
+    font-size: 5em;
+}
+
+.landing-page .hero h2>span:last-child{
+    font-size: 60px;
+    color: gray;
+}
+
+.landing-page .icon-button.cta{
+    font-size: var(--base-size-20);
+    width: fit-content;
+    padding: 15px 35px;
+}
+
+/* Default style for the header text */
+.landing-page .hero h2 {
+    font-size: 5rem; /* Default font size for larger screens */
+    transition: font-size 0.3s ease; /* Smooth transition */
+}
+
+.landing-page .hero h2>span:last-child{
+    font-size: 4rem; /* Default font size for larger screens */
+    transition: font-size 0.3s ease; /* Smooth transition */
+}
+  
+  /* When the viewport width is between 768px and 1024px (tablets) */
+@media (max-width: 1024px) {
+    .landing-page .hero h2 {
+        font-size: 4rem; /* Adjust font size for medium screens */
+    }
+
+    .landing-page .hero h2>span:last-child{
+        font-size: 3rem;
+    }
+}
+  
+  /* When the viewport width is between 576px and 768px (smaller tablets and mobile landscape) */
+@media (max-width: 768px) {
+    .landing-page .hero h2 {
+        font-size: 3.5rem; /* Adjust font size for smaller screens */
+    }
+
+    .landing-page .hero h2>span:last-child{
+        font-size: 2.5rem;
+    }
+}
+  
+  /* When the viewport width is 576px or below (mobile devices) */
+@media (max-width: 576px) {
+    .landing-page .hero h2 {
+        font-size: 3rem; /* Adjust font size for mobile screens */
+    }
+
+    .landing-page .hero h2>span:last-child{
+        font-size: 2rem;
+    }
+}
+  
+
+.landing-page .hero img{
+    width: 100%;
+    opacity: 0.25;
+}
+
+.landing-page .cont{
+    margin-bottom: 50px;
+}
+
+
+@media screen and (min-width: 800px) {
+    /* .landing-page .features .box .description-box{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        align-items: center;
+    } */
+}
+
+.landing-page .features .box .description-box{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+
+    position: relative;
+    height: 600px; /* Set the height of the parallax container */
+    overflow: hidden;
+
+    margin-bottom: 30px;
+}
+
+.landing-page .features .box .description-box .img-container{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border: 2px solid var(--gray-700);
+}
+
+.landing-page .features .box .description-box .title>span{
+    font-weight: 600;
+    font-size: 17px;
+}
+
+.landing-page .features .box .description-box img{
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    height: auto;
+    will-change: transform; /* Improve performance */
+    object-fit: cover; /* Ensures the image covers the entire container */
+    min-height: 100%;
+}
+
+@keyframes parallax-scroll {
+    0% {
+      transform: translateX(-50%) translateY(-10%);
+    }
+    100% {
+      transform: translateX(-50%) translateY(10%);
+    }
+  }
+
+.landing-page .features .box .description-box .text{
+    width: 100%;
+    padding: 20px;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+}
+.landing-page .features .box .description-box .right{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+
+.landing-page .footer .box{
+    height: fit-content;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    column-gap: 10px;
+}
+
+@media screen and (min-width: 1200px) {
+    .landing-page .features .box .features-container{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+        column-gap: 20px;
+    }
+
+    .landing-page .features .box .description-box{
+        height: fit-content;
+    }
+    
+    .landing-page .features .box .description-box .img-container{
+        height: 10vw;
+    }
+
+    .landing-page .features .box .description-box .img-container img{
+        height: 110%;
+    }
+}
+
+
+/* HOW - IT - WORKS SECTION */  
+.how-it-works .step .title>span{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.how-it-works .step .content{
+    display: flex;
+    flex-direction: column;
+    align-items: right;
+}
+
+.how-it-works .container .step{
+    margin-bottom: 30px;
+}
+
+.how-it-works .step .content .sub-step{
+    margin-left: 5%;
+}
+
+.how-it-works .container .call>span{
+    font-weight: 500;
+    color: rgb(0, 153, 255);
+}
+
+/* ABOUT US SECTION */
+.about ul li{
+    margin-left: 5%;
+}
+
+
+/* FOOTER */
+
+/* Footer Styles */
+.landing-page .footer {
+    background: linear-gradient(135deg, #2c3e50 0%, #1a2533 100%);
+    color: #ffffff;
+    padding: 50px 0 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 0 -5px 20px rgba(0, 0, 0, 0.1);
+    width: 100vw;
+  }
+
+  .landing-page .footer-body{
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+  }
+  
+  .landing-page .footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .landing-page .footer-section {
+    flex: 1;
+    min-width: 200px;
+    margin-bottom: 30px;
+    padding: 0 15px;
+  }
+  
+  .landing-page .footer-section h4 {
+    color: #4fc3f7;
+    font-size: 18px;
+    margin-bottom: 20px;
+    position: relative;
+    padding-bottom: 10px;
+  }
+  
+  .landing-page .footer-section h4::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 50px;
+    height: 2px;
+    background: #4fc3f7;
+  }
+  
+  .landing-page .footer-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .landing-page .footer-section ul li {
+    margin-bottom: 12px;
+  }
+  
+  .landing-page .footer-section ul li a {
+    color: #ecf0f1;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    display: inline-block;
+  }
+  
+  .landing-page .footer-section ul li a:hover {
+    color: #4fc3f7;
+    transform: translateX(5px);
+  }
+  
+  .landing-page .social-icons {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 20px;
+  }
+  
+  .landing-page .social-icons a {
+    color: #ecf0f1;
+    background: rgba(255, 255, 255, 0.1);
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+  }
+  
+  .landing-page .social-icons a:hover {
+    background: #4fc3f7;
+    transform: translateY(-3px);
+  }
+  
+  .landing-page .footer-section p {
+    margin: 8px 0;
+    color: #bdc3c7;
+    font-size: 14px;
+  }
+  
+  .landing-page .footer-bottom {
+    text-align: center;
+    padding: 20px 0;
+    background: rgba(0, 0, 0, 0.2);
+    margin-top: 30px;
+    font-size: 14px;
+    color: #bdc3c7;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .landing-page .footer-section {
+      flex: 100%;
+      text-align: center;
+    }
+    
+    .landing-page .footer-section h4::after {
+      left: 50%;
+      transform: translateX(-50%);
+    }
+    
+    .landing-page .social-icons {
+      justify-content: center;
+    }
+  }
+
+  .footer-body{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }

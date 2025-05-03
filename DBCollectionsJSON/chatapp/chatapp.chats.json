@@ -1,0 +1,455 @@
+[{
+  "_id": {
+    "$oid": "670d57282d944e76d6b71799"
+  },
+  "receiver": {
+    "$oid": "111111111111111111111222"
+  },
+  "sender": {
+    "$oid": "111111111111111111111111"
+  },
+  "lastMessage": "Message received",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2024-10-14T17:38:48.420Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670fb5bb1eab8f888c70a262"
+  },
+  "receiver": {
+    "$oid": "111111111111111111111114"
+  },
+  "sender": {
+    "$oid": "111111111111111111111113"
+  },
+  "lastMessage": "World! World! from 44",
+  "unreadMessageCount": 0,
+  "lastMessageTimestamp": {
+    "$date": "2024-10-16T12:46:51.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670fb8416dad5d4dab816dc7"
+  },
+  "receiver": {
+    "$oid": "111111111111111111111113"
+  },
+  "sender": {
+    "$oid": "111111111111111111111114"
+  },
+  "lastMessage": "World! World! from 44",
+  "unreadMessageCount": 0,
+  "lastMessageTimestamp": {
+    "$date": "2024-10-16T12:57:37.870Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6721d1d51b8b9ec8e29f2030"
+  },
+  "receiver": {
+    "$oid": "111111111111111111111118"
+  },
+  "sender": {
+    "$oid": "111111111111111111111119"
+  },
+  "lastMessage": "World! World! from 44",
+  "unreadMessageCount": 404,
+  "lastMessageTimestamp": {
+    "$date": "2024-10-30T06:27:33.785Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6721d1f11b8b9ec8e29f268e"
+  },
+  "receiver": {
+    "$oid": "111111111111111111111123"
+  },
+  "sender": {
+    "$oid": "111111111111111111111124"
+  },
+  "lastMessage": "World! World! from 44",
+  "unreadMessageCount": 196,
+  "lastMessageTimestamp": {
+    "$date": "2024-10-30T06:28:01.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673341d9761d198fcda461ae"
+  },
+  "receiver": {
+    "$oid": "111111111111111111111113"
+  },
+  "sender": {
+    "$oid": "111111111111111111111112"
+  },
+  "lastMessage": "message from 2",
+  "unreadMessageCount": 429,
+  "lastMessageTimestamp": {
+    "$date": "2024-11-12T11:54:01.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673341d9761d198fcda461b2"
+  },
+  "receiver": {
+    "$oid": "111111111111111111111113"
+  },
+  "sender": {
+    "$oid": "111111111111111111111112"
+  },
+  "lastMessage": "message from 2",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2024-11-12T11:54:01.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67334234761d198fcda4687d"
+  },
+  "receiver": {
+    "$oid": "111111111111111111111123"
+  },
+  "sender": {
+    "$oid": "111111111111111111111113"
+  },
+  "lastMessage": "message from 2",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2024-11-12T11:55:32.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673394b5064c1da3a108f519"
+  },
+  "lastMessage": "message from 2",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2024-11-12T17:47:33.774Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673394e0064c1da3a108f51f"
+  },
+  "lastMessage": "message from 2",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2024-11-12T17:48:16.768Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673394fc064c1da3a108f525"
+  },
+  "lastMessage": "message from 2",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2024-11-12T17:48:44.848Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733a7f781b59fd437c3674e"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111125"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111123"
+  },
+  "lastMessage": "message from 2",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2024-11-12T19:09:43.648Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6733aa0eef49ac52788487f7"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111123"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111125"
+  },
+  "senderId": {
+    "$oid": "111111111111111111111125"
+  },
+  "lastMessage": "message from 23",
+  "unreadMessageCount": 6,
+  "lastMessageTimestamp": {
+    "$date": "2024-11-12T19:18:38.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673428432f90e3319e55454d"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111155"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111156"
+  },
+  "senderId": {
+    "$oid": "111111111111111111111155"
+  },
+  "lastMessage": "message from 23",
+  "unreadMessageCount": 0,
+  "lastMessageTimestamp": {
+    "$date": "2024-11-13T04:17:07.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6734289f221fd8f09feedbf0"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111145"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111146"
+  },
+  "senderId": {
+    "$oid": "111111111111111111111146"
+  },
+  "lastMessage": "message from 23",
+  "unreadMessageCount": 0,
+  "lastMessageTimestamp": {
+    "$date": "2024-11-13T04:18:39.808Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673431c4e100e4851cc9ff31"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111135"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111136"
+  },
+  "senderId": {
+    "$oid": "111111111111111111111135"
+  },
+  "lastMessage": "message from new2",
+  "unreadMessageCount": 0,
+  "lastMessageTimestamp": {
+    "$date": "2024-11-13T04:57:40.733Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67343e052ad2c74e97974104"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111165"
+  },
+  "userId2": {
+    "$oid": "111111111111111111111166"
+  },
+  "senderId": {
+    "$oid": "111111111111111111111165"
+  },
+  "lastMessage": "message from new2",
+  "unreadMessageCount": 0,
+  "lastMessageTimestamp": {
+    "$date": "2024-11-13T05:49:57.946Z"
+  },
+  "__v": 0,
+  "lastMessageType": "text"
+},
+{
+  "_id": {
+    "$oid": "6744d0f419ebea0b714d991d"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111165"
+  },
+  "userId2": {
+    "$oid": "673c247a763762263af973b8"
+  },
+  "senderId": {
+    "$oid": "673c247a763762263af973b8"
+  },
+  "lastMessage": "message from new2",
+  "lastMessageType": "text",
+  "unreadMessageCount": 2,
+  "lastMessageTimestamp": {
+    "$date": "2024-11-25T19:33:08.553Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6744d11f19ebea0b714d9923"
+  },
+  "userId1": {
+    "$oid": "111111111111111111111164"
+  },
+  "userId2": {
+    "$oid": "673c247a763762263af973b8"
+  },
+  "senderId": {
+    "$oid": "673c247a763762263af973b8"
+  },
+  "lastMessage": "message from new2",
+  "lastMessageType": "text",
+  "unreadMessageCount": 1,
+  "lastMessageTimestamp": {
+    "$date": "2024-11-25T19:33:51.798Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6744d12919ebea0b714d9929"
+  },
+  "userId1": {
+    "$oid": "66e4447245cc159ccd960b95"
+  },
+  "userId2": {
+    "$oid": "673c247a763762263af973b8"
+  },
+  "senderId": {
+    "$oid": "673c247a763762263af973b8"
+  },
+  "lastMessage": "lkjsdlf",
+  "lastMessageType": "text",
+  "unreadMessageCount": 0,
+  "lastMessageTimestamp": {
+    "$date": "2024-11-25T19:34:01.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675848e68078f935cd9a21f1"
+  },
+  "userId1": {
+    "$oid": "673c247a763762263af973b8"
+  },
+  "userId2": {
+    "$oid": "6753d5b520a22433db03559e"
+  },
+  "senderId": {
+    "$oid": "6753d5b520a22433db03559e"
+  },
+  "lastMessage": "hdskjfhds",
+  "lastMessageType": "text",
+  "unreadMessageCount": 0,
+  "lastMessageTimestamp": {
+    "$date": "2024-12-10T13:57:58.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677f9b97392afd5e9dbf3b83"
+  },
+  "userId1": {
+    "$oid": "673c247a763762263af973b8"
+  },
+  "userId2": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "jklsfjkdsjf lkdsjklfjlkdsj fkljdslkfjdskljf kldsjfkljdsklfjlkdsfjkldsjfkldsjflk",
+  "lastMessageType": "text",
+  "unreadMessageCount": 0,
+  "lastMessageTimestamp": {
+    "$date": "2025-04-06T06:24:58.044Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6785563ab4885c2009d50870"
+  },
+  "userId1": {
+    "$oid": "6753d5b520a22433db03559e"
+  },
+  "userId2": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "dsjfdlksjf",
+  "lastMessageType": "text",
+  "unreadMessageCount": 0,
+  "lastMessageTimestamp": {
+    "$date": "2025-01-13T18:06:50.101Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67ac4a78fff2978543f5b070"
+  },
+  "userId1": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "userId2": {
+    "$oid": "67abaf0751dca97266194c1e"
+  },
+  "senderId": {
+    "$oid": "67abaf0751dca97266194c1e"
+  },
+  "lastMessage": "Hello world!",
+  "lastMessageType": "text",
+  "unreadMessageCount": 0,
+  "lastMessageTimestamp": {
+    "$date": "2025-04-09T05:42:03.862Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f8c356880de20dbec3ba37"
+  },
+  "userId1": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "userId2": {
+    "$oid": "67ac8b98e03808e4f23792c4"
+  },
+  "senderId": {
+    "$oid": "67793513cb8fb3b56c484c71"
+  },
+  "lastMessage": "Started the chat",
+  "lastMessageType": "text",
+  "unreadMessageCount": 0,
+  "lastMessageTimestamp": {
+    "$date": "2025-04-11T07:23:02.023Z"
+  },
+  "__v": 0
+}]

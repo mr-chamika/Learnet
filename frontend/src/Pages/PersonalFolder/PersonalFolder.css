@@ -1,0 +1,59 @@
+.personal-folder{
+    height: calc(100vh - 83px);
+    /* overflow-y: scroll; */
+    background-color: var(--white);
+}
+
+.personal-folder .topbar{
+    height: 75px;
+}
+
+.personal-folder .topbar .left,
+.personal-folder .topbar .right{
+    display: flex;
+    column-gap: 10px;
+}
+
+.personal-folder .body{
+    display: flex;
+    flex-direction: column;
+    /* row-gap: 10px; */
+    /* margin-bottom: 20px; */
+}
+
+.personal-folder .bottom-right .left-pannel{
+    border-left: 2px solid var(--gray-400);
+    border-right: 2px solid var(--gray-400);
+}
+
+.personal-folder .bottom-right .left-pannel .path{
+    margin-left: 30px;
+}
+
+/* .personal-folder .dir{ */
+    /* background-color: rgb(231, 231, 231);
+    border-radius: 10px;
+    width: 100%; */
+    /* display: flex; */
+    /* column-gap: 20px; */
+    /* padding: 5px 20px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: black; */
+/* } */
+
+/* .personal-folder .dir{
+    background-color: rgb(233, 233, 233);
+}
+
+.personal-folder .dir.note{
+    background-color: rgb(181, 219, 255);
+}
+
+.personal-folder .dir.video{
+    background-color: rgb(255, 167, 167);
+}
+
+.personal-folder .dir.link{
+    background-color: rgb(223, 174, 255);
+} */

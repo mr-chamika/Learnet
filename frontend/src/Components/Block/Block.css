@@ -1,0 +1,271 @@
+.block {
+
+
+    width: 98%;
+    padding: 10px 0px 10px 20px;
+    display: flex;
+    margin: 20px 0px 0px 10px;
+    border-radius: 15px;
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.308);
+
+}
+
+.block .left {
+
+    width: 75%;
+
+}
+
+.block .left .buttons {
+
+    display: flex;
+    gap: 5px;
+    margin-left: 20px;
+
+}
+
+
+.block .left a {
+
+    text-decoration: none;
+    color: rgb(0, 67, 223);
+    font-size: 20px;
+
+}
+
+.block .left a:hover {
+
+    color: rgba(0, 67, 223, 0.626);
+
+}
+
+.block .left a :visited {
+
+    text-decoration: none;
+
+}
+
+.block .left .underTitle {
+
+    width: 90%;
+    padding-left: 20px;
+    margin-top: 15px;
+    font-style: oblique;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+
+}
+
+.block .right {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 25%;
+    padding: 10px 20px 0px 0px;
+
+}
+
+.block .right .shows {
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: end;
+}
+
+.block .right .shows .navsk.answer {
+
+    border: solid 1px rgb(4, 157, 4);
+    padding: 5px;
+    border-radius: 5px;
+
+}
+
+.block .right .shows .navsk.answer.marked {
+
+    background-color: rgb(4, 157, 4);
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+
+}
+
+.block .right .bottom {
+
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.block .right .bottom .com {
+
+    display: flex;
+
+}
+
+.block .right .bottom .com img {
+
+    padding-top: 5px;
+    padding-right: 5px;
+
+}
+
+
+.block .right .authorT {
+
+    padding-top: 3px;
+    font-size: 13px;
+
+}
+
+.block .right .authorT a {
+
+    text-decoration: none;
+    color: rgb(0, 67, 223);
+    font-size: 13px;
+
+    :hover {
+
+        cursor: default;
+
+    }
+
+}
+
+.block-blocked {
+
+    background: rgba(255, 0, 0, 0.281);
+    width: 98%;
+    padding: 10px 0px 10px 20px;
+    display: flex;
+    margin: 20px 0px 0px 10px;
+    border-radius: 15px;
+    box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.308);
+
+}
+
+.block-blocked .left {
+
+    width: 75%;
+
+}
+
+.block-blocked .left .buttons {
+
+    display: flex;
+    gap: 5px;
+    margin-left: 20px;
+
+}
+
+
+.block-blocked .left a {
+
+    text-decoration: none;
+    color: rgb(0, 67, 223);
+    font-size: 20px;
+
+}
+
+.block-blocked .left a:hover {
+
+    color: rgba(0, 67, 223, 0.626);
+
+}
+
+.block-blocked .left a :visited {
+
+    text-decoration: none;
+
+}
+
+.block-blocked .left .underTitle {
+
+    width: 90%;
+    padding-left: 20px;
+    margin-top: 15px;
+    font-style: oblique;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+
+}
+
+.block-blocked .right {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 25%;
+    padding: 10px 20px 0px 0px;
+
+}
+
+.block-blocked .right .shows {
+
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: end;
+}
+
+.block-blocked .right .shows .navsk.answer {
+
+    border: solid 1px rgb(4, 157, 4);
+    padding: 5px;
+    border-radius: 5px;
+
+}
+
+.block-blocked .right .shows .navsk.answer.marked {
+
+    background-color: rgb(4, 157, 4);
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+
+}
+
+.block-blocked .right .bottom {
+
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.block-blocked .right .bottom .com {
+
+    display: flex;
+
+}
+
+.block-blocked .right .bottom .com img {
+
+    padding-top: 5px;
+    padding-right: 5px;
+
+}
+
+
+.block-blocked .right .authorT {
+
+    padding-top: 3px;
+    font-size: 13px;
+
+}
+
+.block-blocked .right .authorT a {
+
+    text-decoration: none;
+    color: rgb(0, 67, 223);
+    font-size: 13px;
+
+    :hover {
+
+        cursor: default;
+
+    }
+
+}

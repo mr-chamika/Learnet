@@ -1,0 +1,93 @@
+.profile {
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+
+.profile>* {
+    width: 20px;
+    height: 20px;
+    /* background-color: rgb(117, 117, 252); */
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.profile .notifications{
+    width: 23px;
+    height: 23px;
+}
+
+.profile img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.profile .profile-picture{
+    overflow: hidden;
+    border: 1px solid greenyellow;
+    width: 40px;
+    height: 40px;
+}
+
+.profile .profile-picture img{
+    width: 100%;
+}
+
+.profile .notifications{
+    position: relative;
+}
+
+.profile .notifications-count{
+    background-color: rgb(121, 255, 94);
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: -15%;
+    left: 65%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile .profile-contetx{
+    width: fit-content;
+    height: fit-content;
+    position: absolute;
+    top: 95%;
+    right: 0;
+    z-index: 100;
+    background-color: var(--white);
+    padding: 15px 10px;
+    border-radius: 10px;
+    border: 1px solid var(--gray-600);
+}
+
+.profile .profile-contetx .item{
+    padding: 10px;
+    border-bottom: 1px solid var(--gray-700);
+}
+
+.profile .profile-contetx .item:hover{
+    background-color: var(--gray-100);
+}
+
+.profile .profile-contetx .item:last-child{
+    border-bottom: none;
+}
+
+.profile .profile-contetx .item a{
+    text-decoration: none;
+    color: var(--black);
+}
+
+.profile .profile-contetx .item.highlight{
+    background-color: yellow;
+}
+
+.profile .profile-contetx .item.highlight:hover{
+    background-color: rgb(211, 162, 0);
+}

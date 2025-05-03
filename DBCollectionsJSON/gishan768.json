@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "67abaf0751dca97266194c1e"
+  },
+  "name": "Gishan Maduranga",
+  "username": "Gishan768",
+  "bio": "slkdjfk ljdslkfjlkdsjf lklds jf",
+  "password": "$2b$10$CyKIETsuT8dJUEOualxxLuQzr.LfyOohs3.61KxUORF6KYJdZEReu",
+  "phone": "1234567890",
+  "email": "gishan768@gmail.com",
+  "university": "UCSC",
+  "uid": "1345456",
+  "emailVerified": true,
+  "isAdmin": false,
+  "isModerator": false,
+  "uidImagePath": "uploads\\UID_images\\1739304711061616460.jpg",
+  "profilePicturePath": "uploads\\profile_pictures\\1739304711057555942.jpg",
+  "__v": 0,
+  "friendsId": {
+    "$oid": "67ac926fe03808e4f23792d6"
+  }
+}]

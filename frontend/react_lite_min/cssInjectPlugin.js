@@ -1,0 +1,1 @@
+class CSSInjectPlugin{apply(s){s.hooks.emit.tapAsync("CSSInjectPlugin",((s,e)=>{const t=s.__cssAccumulator;if(t){const e=s.assets["index.html"];if(e){const c=e.source().replace("</head>",`<style>${t}</style></head>`);s.assets["index.html"]={source:()=>c,size:()=>c.length}}}e()}))}}module.exports=CSSInjectPlugin;
